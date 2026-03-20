@@ -1,0 +1,589 @@
+{
+  "entries": [
+    {
+      "id": "ent-006",
+      "title": "中東資金撤離與私募信貸流動性危機",
+      "source_name": "陶束 Channel",
+      "source_url": "https://www.youtube.com/watch?v=5HK8S_Iv6Tw",
+      "source_type": "youtube",
+      "date": "2026-03-21",
+      "summary_short": "中東資金正在撤離風險資產，連黃金都被拋售。私募信貸面臨流動性危機，可能成為美國金融體系最大短板。",
+      "summary_long": "近期中東局勢升級令當地資金大幅撤離風險資產，連傳統避險工具黃金都被拋售，只保留美元現金。與此同時，私募信貸（Private Credit）正面臨結構性流動性危機：1）軟件行業AI轉型導致盈利模式受損，投資者信心不足；2）AI基建投資能否賺錢存疑。大量資金從私募信貸基金贖回，可能觸發類似2008年雷曼的連鎖反應。中東有大量資金投入私募信貸，新資金進不來+舊資金加速撤離，壓力極大。一旦爆發，可能波及銀行、保險公司等傳統金融機構。",
+      "key_points": [
+        "中東資金撤離風險資產，連黃金都被拋售",
+        "私募信貸面臨流動性危機，已出現大量贖回",
+        "軟件行業AI轉型令盈利模式受損",
+        "AI基建投資能否賺錢存疑",
+        "私募信貸與銀行、保險公司千絲萬縷，連鎖風險高",
+        "中東資金加速回流香港、新加坡、倫敦",
+        "美國金融體系最大短板可能是私募信貸"
+      ],
+      "bull_points": [
+        "香港作為國際金融中心或受惠於中東資金流入",
+        "中國政治環境穩定，地緣政治角色獲高度評價",
+        "美元仍是最終避風港"
+      ],
+      "bear_points": [
+        "私募信貸流動性危機可能爆發",
+        "可能引發類似2008年金融危機的連鎖反應",
+        "中東資金短期內不會投入風險資產",
+        "美國全球主導地位可能崩塌",
+        "石油美元時代可能終結"
+      ],
+      "catalysts": [
+        "中東局勢進一步升級",
+        "更多私募信貸基金暫停贖回",
+        "聯儲局QE或流動性支持"
+      ],
+      "risks": [
+        "私募信貸違約潮",
+        "流動性乾涸",
+        "信用市場凍結",
+        "系統性金融風險",
+        "地緣政治惡化"
+      ],
+      "open_questions": [
+        "私募信貸危機何時會爆發？",
+        "聯儲局會否大規模救市？",
+        "中東資金會否重新流入風險資產？",
+        "香港金融中心地位能否真正受惠？"
+      ],
+      "notes": "呢段影片提醒我要密切關注TED spread同LIBOR-OIS spread等流動性指標。私募信貸既贖回限制會產生恐慌滾雪球效應，需要持續監察。",
+      "companies": [],
+      "sectors": [
+        "金融",
+        "私募信貸",
+        "宏觀"
+      ],
+      "themes": [
+        "流動性",
+        "風險管理",
+        "私募信貸",
+        "地緣政治",
+        "宏觀經濟"
+      ],
+      "tickers": [],
+      "created_at": "2026-03-21T05:30:00Z",
+      "updated_at": "2026-03-21T05:30:00Z"
+    },
+    {
+      "id": "ent-001",
+      "title": "美國金融生態最大短板：流動性危機信號",
+      "source_name": "YouTube 投資頻道",
+      "source_url": "https://www.youtube.com/watch?v=5HK8S_Iv6Tw",
+      "source_type": "youtube",
+      "date": "2026-03-21",
+      "summary_short": "中東資金撤離風險資產，連黃金都被拋售，反映美國金融體系流動性緊張。",
+      "summary_long": "近期市場觀察顯示，大量中東資金正在撤離風險資產，趨避到美元現金。連傳統避險工具如黃金都被拋售，這在歷史上是罕見的信號。情況類似2008年雷曼倒閉前的流動性緊縮。投資者應該降低槓桿、增加現金比例，等待更清晰的趨勢確認。",
+      "key_points": [
+        "中東資金大規模撤離風險資產",
+        "黃金被拋售，流動性緊張信號",
+        "類似2008年前兆",
+        "建議減槓桿、增現金"
+      ],
+      "bull_points": [
+        "美元資產仍是全球最終避風港",
+        "聯儲局有工具應對流動性問題"
+      ],
+      "bear_points": [
+        "流動性危機可能快速惡化",
+        "信用市場可能凍結",
+        "新興市場可能受更大衝擊"
+      ],
+      "catalysts": [
+        "中東局勢升級",
+        "聯儲局緊縮政策持續"
+      ],
+      "risks": [
+        "流動性乾涸",
+        "信用利差擴大",
+        "系統性風險"
+      ],
+      "open_questions": [
+        "流動性緊張會持續到幾時？",
+        "聯儲局會否啟動新一輪QE？"
+      ],
+      "notes": "呢段影片提醒我要重視宏觀流動性指標，例如TED spread同LIBOR-OIS spread。",
+      "companies": [],
+      "sectors": [
+        "金融",
+        "宏觀"
+      ],
+      "themes": [
+        "流動性",
+        "風險管理",
+        "宏觀經濟"
+      ],
+      "tickers": [],
+      "created_at": "2026-03-21T04:50:00Z",
+      "updated_at": "2026-03-21T04:50:00Z"
+    },
+    {
+      "id": "ent-002",
+      "title": "TSLA 2026年投資分析：Robotaxi 進展與挑戰",
+      "source_name": "ARK Invest YouTube",
+      "source_url": "https://www.youtube.com/watch?v=example1",
+      "source_type": "youtube",
+      "date": "2026-03-15",
+      "summary_short": "Tesla Robotaxi 商業化時間表延遲，但 FSD 技術進展良好。估值偏高。",
+      "summary_long": "分析 Tesla 既 Robotaxi 發展：技術方面 FSD v13 表現顯著提升，但商業化既時間表比預期延遲6-12個月。主要挑戰包括監管審批、保險責任、客戶接受度。估值方面，現價已反映樂觀情境，需要留意下行風險。",
+      "key_points": [
+        "FSD 技術進展超預期",
+        "Robotaxi 商業化延遲6-12個月",
+        "估值偏高，需要新催化劑",
+        "中國市場競爭加劇"
+      ],
+      "bull_points": [
+        "FSD 技術領先对手2-3年",
+        "能源業務穩定現金流",
+        "Optimus 機器人長期潛力"
+      ],
+      "bear_points": [
+        "估值過高",
+        "中國電動車競爭激烈",
+        "自動駕駛監管風險",
+        "需求放緩跡象"
+      ],
+      "catalysts": [
+        "Robotaxi 正式推出",
+        "FSD 獲大規模監管批准",
+        "新一代車型發布"
+      ],
+      "risks": [
+        "估值回調",
+        "中國市場份額流失",
+        "技術落後競爭對手"
+      ],
+      "open_questions": [
+        "Robotaxi 幾時可以大規模商業化？",
+        "中國市場份額點守？"
+      ],
+      "notes": "暫時觀望為主，等更清晰既催化劑出現。",
+      "companies": [
+        "Tesla"
+      ],
+      "sectors": [
+        "電動車",
+        "科技"
+      ],
+      "themes": [
+        "自動駕駛",
+        "估值",
+        "競爭格局"
+      ],
+      "tickers": [
+        "TSLA"
+      ],
+      "created_at": "2026-03-15T10:00:00Z",
+      "updated_at": "2026-03-15T10:00:00Z"
+    },
+    {
+      "id": "ent-003",
+      "title": "半導體行業深度：AI 晶片需求與供應鏈分析",
+      "source_name": "SemiEngineering YouTube",
+      "source_url": "https://www.youtube.com/watch?v=example2",
+      "source_type": "youtube",
+      "date": "2026-03-10",
+      "summary_short": "AI 晶片需求持續強勁，但供應鏈緊張。NVIDIA 領先，AMD 追趕。",
+      "summary_long": "半導體行業 AI 驅動既強勁復甦：H100/H200 需求持續超過供給，交貨時間達6-9個月。先進封裝（CoWoS）產能緊張會持續到2027年。中國既 AI 晶片出口限制對行業影響有限，因為非中國既需求太強。",
+      "key_points": [
+        "AI 晶片供不應求持續",
+        "NVIDIA 保持領先",
+        "先進封裝產能緊張",
+        "中國出口限制影響有限"
+      ],
+      "bull_points": [
+        "AI 需求爆發，增長空間大",
+        "NVIDIA 技術領先",
+        "先進製程供應商有議價能力"
+      ],
+      "bear_points": [
+        "估值偏高",
+        "中國供應鏈風險",
+        "週期性波動"
+      ],
+      "catalysts": [
+        "新一代 AI 晶片發布",
+        "數據中心擴容",
+        "Edge AI 應用爆發"
+      ],
+      "risks": [
+        "需求放緩",
+        "競爭加劇",
+        "地緣政治"
+      ],
+      "open_questions": [
+        "AMD 幾時可以挑戰 NVIDIA？",
+        "供應鏈幾時會放鬆？"
+      ],
+      "notes": "主要持有 NVIDIA，可以考慮小注 AMD。",
+      "companies": [
+        "NVIDIA",
+        "AMD",
+        "台積電"
+      ],
+      "sectors": [
+        "半導體",
+        "科技"
+      ],
+      "themes": [
+        "AI",
+        "供應鏈",
+        "行業週期"
+      ],
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "TSM"
+      ],
+      "created_at": "2026-03-10T14:00:00Z",
+      "updated_at": "2026-03-10T14:00:00Z"
+    },
+    {
+      "id": "ent-004",
+      "title": "港股投資策略：防守型高息股選擇",
+      "source_name": "YouTube 港股分析",
+      "source_url": "https://www.youtube.com/watch?v=example3",
+      "source_type": "youtube",
+      "date": "2026-03-05",
+      "summary_short": "在高利率環境下，防守型高息股既吸引力上升。",
+      "summary_long": "分析港股市場既防守型高息股：香港公用事業、內銀同電訊股提供4-7%股息率，適合追求穩定現金流既投資者。但要留意既係公用事業既監管風險同內銀既資產質素問題。",
+      "key_points": [
+        "高息股提供4-7%股息",
+        "公用事業監管風險",
+        "內銀資產質素要關注",
+        "電訊股防守性較強"
+      ],
+      "bull_points": [
+        "高股息提供下行保護",
+        "穩定現金流",
+        "估值偏低"
+      ],
+      "bear_points": [
+        "增長前景有限",
+        "監管政策風險",
+        "港元與美元掛鉤既局限性"
+      ],
+      "catalysts": [
+        "減息周期啟動",
+        "估值修復",
+        "派息政策提升"
+      ],
+      "risks": [
+        "經濟衰退",
+        "監管收緊",
+        "流動性風險"
+      ],
+      "open_questions": [
+        "內銀既不良貸款率幾時見頂？",
+        "公用事業加價空間有幾大？"
+      ],
+      "notes": "可以考慮做現金流組合既一部分。",
+      "companies": [
+        "中電控股",
+        "港鐵公司",
+        "中國移動"
+      ],
+      "sectors": [
+        "公用事業",
+        "電訊",
+        "銀行"
+      ],
+      "themes": [
+        "高息股",
+        "防守",
+        "港股"
+      ],
+      "tickers": [
+        "0002.HK",
+        "0666.HK",
+        "0941.HK"
+      ],
+      "created_at": "2026-03-05T09:00:00Z",
+      "updated_at": "2026-03-05T09:00:00Z"
+    },
+    {
+      "id": "ent-005",
+      "title": "美股科技股估值分析：FAANG vs AI 新貴",
+      "source_name": "YouTube 估值分析",
+      "source_url": "https://www.youtube.com/watch?v=example4",
+      "source_type": "youtube",
+      "date": "2026-02-28",
+      "summary_short": "傳統科技巨頭估值合理，AI 新貴估值偏高。",
+      "summary_long": "估值對比分析：Apple、Google、Microsoft 既 PE ratio 處於10年均值附近，估值合理。但 AI 相關既初創同小型股估值偏高，存在調整風險。建議關注有實際 AI 營收既公司，避開純概念既 AI 股票。",
+      "key_points": [
+        "FAANG 估值合理",
+        "AI 新貴估值偏高",
+        "要關注 AI 營收實際貢獻",
+        "整體科技股處於高位"
+      ],
+      "bull_points": [
+        "龍頭公司現金流強勁",
+        "AI 應用前景廣闊",
+        "回購支撐股價"
+      ],
+      "bear_points": [
+        "估值修復空間有限",
+        "利率維持高水平",
+        "AI 熱潮可能冷卻"
+      ],
+      "catalysts": [
+        "AI 產品變現",
+        "回購加速",
+        "併購活動"
+      ],
+      "risks": [
+        "估值回調",
+        "利率上升",
+        "監管加強"
+      ],
+      "open_questions": [
+        "AI 營收幾時可以反映係股價？",
+        "科技股會否調整？"
+      ],
+      "notes": "繼續持有龍頭，增長股等回調先入。",
+      "companies": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "Meta"
+      ],
+      "sectors": [
+        "科技",
+        "互聯網"
+      ],
+      "themes": [
+        "估值",
+        "AI",
+        "美股"
+      ],
+      "tickers": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "META"
+      ],
+      "created_at": "2026-02-28T11:00:00Z",
+      "updated_at": "2026-02-28T11:00:00Z"
+    }
+  ],
+  "companies": [
+    {
+      "id": "comp-1",
+      "name": "AMD",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    },
+    {
+      "id": "comp-2",
+      "name": "Apple",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    },
+    {
+      "id": "comp-3",
+      "name": "Google",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    },
+    {
+      "id": "comp-4",
+      "name": "Meta",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    },
+    {
+      "id": "comp-5",
+      "name": "Microsoft",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    },
+    {
+      "id": "comp-6",
+      "name": "NVIDIA",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    },
+    {
+      "id": "comp-7",
+      "name": "Tesla",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    },
+    {
+      "id": "comp-8",
+      "name": "中國移動",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    },
+    {
+      "id": "comp-9",
+      "name": "中電控股",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    },
+    {
+      "id": "comp-10",
+      "name": "台積電",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    },
+    {
+      "id": "comp-11",
+      "name": "港鐵公司",
+      "ticker": "",
+      "aliases": [],
+      "sector_ids": [],
+      "entry_count": 1
+    }
+  ],
+  "sectors": [
+    {
+      "id": "sector-1",
+      "name": "互聯網",
+      "entry_count": 1
+    },
+    {
+      "id": "sector-2",
+      "name": "公用事業",
+      "entry_count": 1
+    },
+    {
+      "id": "sector-3",
+      "name": "半導體",
+      "entry_count": 1
+    },
+    {
+      "id": "sector-4",
+      "name": "宏觀",
+      "entry_count": 2
+    },
+    {
+      "id": "sector-5",
+      "name": "私募信貸",
+      "entry_count": 1
+    },
+    {
+      "id": "sector-6",
+      "name": "科技",
+      "entry_count": 3
+    },
+    {
+      "id": "sector-7",
+      "name": "金融",
+      "entry_count": 2
+    },
+    {
+      "id": "sector-8",
+      "name": "銀行",
+      "entry_count": 1
+    },
+    {
+      "id": "sector-9",
+      "name": "電動車",
+      "entry_count": 1
+    },
+    {
+      "id": "sector-10",
+      "name": "電訊",
+      "entry_count": 1
+    }
+  ],
+  "themes": [
+    {
+      "id": "theme-1",
+      "name": "AI",
+      "entry_count": 2
+    },
+    {
+      "id": "theme-2",
+      "name": "估值",
+      "entry_count": 2
+    },
+    {
+      "id": "theme-3",
+      "name": "供應鏈",
+      "entry_count": 1
+    },
+    {
+      "id": "theme-4",
+      "name": "地緣政治",
+      "entry_count": 1
+    },
+    {
+      "id": "theme-5",
+      "name": "宏觀經濟",
+      "entry_count": 2
+    },
+    {
+      "id": "theme-6",
+      "name": "流動性",
+      "entry_count": 2
+    },
+    {
+      "id": "theme-7",
+      "name": "港股",
+      "entry_count": 1
+    },
+    {
+      "id": "theme-8",
+      "name": "私募信貸",
+      "entry_count": 1
+    },
+    {
+      "id": "theme-9",
+      "name": "競爭格局",
+      "entry_count": 1
+    },
+    {
+      "id": "theme-10",
+      "name": "美股",
+      "entry_count": 1
+    },
+    {
+      "id": "theme-11",
+      "name": "自動駕駛",
+      "entry_count": 1
+    },
+    {
+      "id": "theme-12",
+      "name": "行業週期",
+      "entry_count": 1
+    },
+    {
+      "id": "theme-13",
+      "name": "防守",
+      "entry_count": 1
+    },
+    {
+      "id": "theme-14",
+      "name": "風險管理",
+      "entry_count": 2
+    },
+    {
+      "id": "theme-15",
+      "name": "高息股",
+      "entry_count": 1
+    }
+  ]
+}

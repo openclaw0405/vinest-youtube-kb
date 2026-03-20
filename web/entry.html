@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>知識筆記詳情 - VINEST</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1><a href="index.html">🧠 VINEST 投資知識庫</a></h1>
+      <nav>
+        <a href="index.html">首頁</a>
+        <a href="library.html">知識庫</a>
+      </nav>
+    </header>
+
+    <div id="content">
+      <div class="empty-state">載入中...</div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    async function init() {
+      const data = await loadData();
+      const params = getParams();
+      const entry = data.entries.find(e => e.id === params.id);
+
+      if (!entry) {
+        document.getElementById('content').innerHTML = '<div class="empty-state">找不到此筆記</div>';
+        return;
+      }
+
+      const related = getRelatedEntries(entry, data.entries, 5);
+
+      document.getElementById('content').innerHTML = `
+        <div class="detail-header">
+          <h1>${esc(entry.title)}</h1>
+          <div class="meta">
+            <span>📅 ${formatDate(entry.date)}</span>
+            <span>📁 ${esc(entry.source_type)}</span>
+            <span class="source">🔗 <a href="${esc(entry.source_url)}" target="_blank">${esc(entry.source_name || '來源')}</a></span>
+          </div>
+        </div>
+
+        <div class="detail-section">
+          <h3>📋 摘要</h3>
+          <p><strong>${esc(entry.summary_short)}</strong></p>
+          ${entry.summary_long ? `<p style="margin-top:12px">${esc(entry.summary_long)}</p>` : ''}
+        </div>
+
+        <div class="detail-section">
+          <h3>🏷️ 分類</h3>
+          <div class="tags-display">
+            ${renderTags(entry.companies, 'company')}
+            ${renderTags(entry.sectors, 'sector')}
+            ${renderTags(entry.themes, 'theme')}
+            ${renderTags(entry.tickers, 'tag')}
+          </div>
+        </div>
+
+        ${entry.key_points && entry.key_points.length ? `
+        <div class="detail-section">
+          <h3>💡 重點</h3>
+          <ul style="padding-left:20px">
+            ${entry.key_points.map(p => `<li>${esc(p)}</li>`).join('')}
+          </ul>
+        </div>
+        ` : ''}
+
+        <div class="points-grid">
+          ${entry.bull_points && entry.bull_points.length ? `
+          <div class="point-card bull">
+            <h4>✅ 看好論點 (Bull)</h4>
+            <ul>${entry.bull_points.map(p => `<li>${esc(p)}</li>`).join('')}</ul>
+          </div>
+          ` : ''}
+
+          ${entry.bear_points && entry.bear_points.length ? `
+          <div class="point-card bear">
+            <h4>❌ 看淡論點 (Bear)</h4>
+            <ul>${entry.bear_points.map(p => `<li>${esc(p)}</li>`).join('')}</ul>
+          </div>
+          ` : ''}
+
+          ${entry.catalysts && entry.catalysts.length ? `
+          <div class="point-card catalyst">
+            <h4>🚀 催化劑 (Catalysts)</h4>
+            <ul>${entry.catalysts.map(p => `<li>${esc(p)}</li>`).join('')}</ul>
+          </div>
+          ` : ''}
+
+          ${entry.risks && entry.risks.length ? `
+          <div class="point-card risk">
+            <h4>⚠️ 風險 (Risks)</h4>
+            <ul>${entry.risks.map(p => `<li>${esc(p)}</li>`).join('')}</ul>
+          </div>
+          ` : ''}
+        </div>
+
+        ${entry.open_questions && entry.open_questions.length ? `
+        <div class="detail-section">
+          <h3>❓ 待解決問題</h3>
+          <ul style="padding-left:20px">
+            ${entry.open_questions.map(q => `<li>${esc(q)}</li>`).join('')}
+          </ul>
+        </div>
+        ` : ''}
+
+        ${entry.notes ? `
+        <div class="detail-section">
+          <h3>📝 個人備註</h3>
+          <p>${esc(entry.notes)}</p>
+        </div>
+        ` : ''}
+
+        <div class="detail-section">
+          <h3>🕐 資訊</h3>
+          <p class="meta">建立：${formatDate(entry.created_at)} · 更新：${formatDate(entry.updated_at)}</p>
+        </div>
+
+        ${related.length ? `
+        <div class="related-section">
+          <h3>🔗 相關筆記</h3>
+          <div class="card-grid">
+            ${related.map(e => VINEST.entryCardHTML(e)).join('')}
+          </div>
+        </div>
+        ` : ''}
+      `;
+    }
+
+    init();
+  </script>
+</body>
+</html>
