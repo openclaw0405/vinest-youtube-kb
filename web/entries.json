@@ -116,7 +116,184 @@
         "vs 紅磡索螺絲 2025-04-13（海峽封鎖）：2025-04-28強調供應恢復需時，2025-04-13提到美伊談判失敗海峽封鎖——呼應：都聚焦能源供應問題",
         "vs 陶東 2026-03-22（伊朗局勢）：陶東話油價可能暴升至150美元，但紅磡認為油價難大跌——矛盾：陶東睇供應中斷導致急升，紅磡睇供應恢復慢但不會暴升",
         "vs 蔡金強 2026-03-21（2026策略）：兩者都睇好油股，但前提唔同——蔡金強因為油價底部提升，紅磡因為供應恢復需時"
-      ]
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "XLE",
+          "company": "Energy Select Sector SPDR",
+          "quotes": [
+            "大行預測油價跌返60美元係違反常識",
+            "即使和平，油價都要一段時間先恢復"
+          ],
+          "key_data": {
+            "用途": "能源ETF",
+            "主持觀點": "供應恢復需時，油價唔會大跌"
+          },
+          "bull_case": "能源後遺症持續，封鎖影響供應，各國補充庫存需時，油價高位支持",
+          "bear_case": "經濟放緩打擊需求，油價如果大跌影響表現",
+          "presenter_action": "長揸",
+          "presenter_size": "能源配置一部分",
+          "investment_verdict": "✅ 長揸當通脹對冲，即使油價跌都不會大跌",
+          "risks_to_watch": [
+            "經濟衰退",
+            "油價波动",
+            "OPEC+產量決策"
+          ]
+        },
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        },
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "quotes": [
+            "NVDA PE低但爭議大",
+            "美光今年賺1000億美元，但呢個係周期性好景"
+          ],
+          "key_data": {
+            "主持觀點": "PE低但爭議大",
+            "爭議": "AI需求是否持續"
+          },
+          "bull_case": "AI滲透率持續提升，GPU需求強勁",
+          "bear_case": "美光今年賺1000億美元，但呢個係周期性好景，AI股可能係周期股",
+          "presenter_action": "持有，唔會高追",
+          "presenter_size": "有持有",
+          "investment_verdict": "⚠️ 等回調先入，PE低但爭議大，要確認AI需求係咪持續",
+          "risks_to_watch": [
+            "AI需求周期見頂",
+            "GPU過剩",
+            "競爭加劇"
+          ]
+        },
+        {
+          "ticker": "META",
+          "company": "Meta Platforms",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "長線持有的大型科技股之一",
+          "bear_case": "面對監管壓力",
+          "presenter_action": "長揸",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 長線持有",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "0883.HK",
+          "company": "中海油",
+          "quotes": [],
+          "key_data": {
+            "用途": "港股能源股代表"
+          },
+          "bull_case": "港股能源股代表，受通脹支持",
+          "bear_case": "中國經濟放緩打擊需求",
+          "presenter_action": "關注",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 港股能源配置，有通脹對冲作用",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
+      ],
+      "updated_at": "2026-05-02T15:52:39.176786Z"
     },
     {
       "id": "ent-20260502-deep-l88J6oXcmeY",
@@ -214,7 +391,131 @@
         "vs 紅磡索螺絲 2025-04-28（油價/XLE/PM）：兩者都討論能源股（XLE）和美股走勢，2025-04-28強調油價不會大跌，2025-04-27討論半導體18連升——兩者都聚焦宏觀經濟和美股機會",
         "vs 紅磡索螺絲 2025-04-24（PM低位加倉）：兩者都提到INTC低位反彈機會，2025-04-24詳細分析PM，2025-04-27則聚焦半導體板塊——呼應：都認為低位股有反彈空間",
         "vs 紅磡索螺絲 2025-03-05（納指反彈）：兩者都討論科技股走勢和半導體周期，2025-03-05強調硬件股有週期性，2025-04-27指出半導體18連升——呼應：都提醒要分清周期股同成長股"
-      ]
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "INTC",
+          "company": "Intel",
+          "quotes": [],
+          "key_data": {
+            "現價": "$30-40（從高位80美元回落）",
+            "主持觀點": "低位反彈機會"
+          },
+          "bull_case": "從高位回落超賣，業績後低位反彈機會",
+          "bear_case": "基本面未完全崩溃，但復甦需時",
+          "presenter_action": "低位吸納，捕捉復甦",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 低位反彈機會，但唔係主要倉位",
+          "risks_to_watch": [
+            "復甦不及預期",
+            "AMD競爭"
+          ]
+        },
+        {
+          "ticker": "HSBC",
+          "company": "滙豐/騰訊",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "香港藍籌銀行/科網龍頭",
+          "bear_case": "港股氣氛偏弱",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 港股藍籌，防守性選擇",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "0700.HK",
+          "company": "滙豐/騰訊",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "香港藍籌銀行/科網龍頭",
+          "bear_case": "港股氣氛偏弱",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 港股藍籌，防守性選擇",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
+      ],
+      "updated_at": "2026-05-02T15:52:39.176809Z"
     },
     {
       "id": "ent-20260502-deep-2GGVPH9eeBg",
@@ -312,7 +613,150 @@
         "vs 紅磡索螺絲 2025-04-27（INTC/HSBC/騰訊）：2025-04-27討論INTC低位反彈，2025-04-24同樣提到INTC——呼應：都認為低位股有反彈空間",
         "vs 紅磡索螺絲 2025-03-23（黑色星期一）：2025-03-23提到PM係最重要持倉，2025-04-24主持低位加倉——呼應：都將PM視為核心防守股",
         "vs 紅磡索螺絲 2025-04-22（PM中海油）：兩者都提到PM作為核心持倉，2025-04-22分析中海油和PM——呼應：PM係長線持有對象"
-      ]
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        },
+        {
+          "ticker": "INTC",
+          "company": "Intel",
+          "quotes": [],
+          "key_data": {
+            "現價": "$30-40（從高位80美元回落）",
+            "主持觀點": "低位反彈機會"
+          },
+          "bull_case": "從高位回落超賣，業績後低位反彈機會",
+          "bear_case": "基本面未完全崩溃，但復甦需時",
+          "presenter_action": "低位吸納，捕捉復甦",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 低位反彈機會，但唔係主要倉位",
+          "risks_to_watch": [
+            "復甦不及預期",
+            "AMD競爭"
+          ]
+        },
+        {
+          "ticker": "XLE",
+          "company": "Energy Select Sector SPDR",
+          "quotes": [
+            "大行預測油價跌返60美元係違反常識",
+            "即使和平，油價都要一段時間先恢復"
+          ],
+          "key_data": {
+            "用途": "能源ETF",
+            "主持觀點": "供應恢復需時，油價唔會大跌"
+          },
+          "bull_case": "能源後遺症持續，封鎖影響供應，各國補充庫存需時，油價高位支持",
+          "bear_case": "經濟放緩打擊需求，油價如果大跌影響表現",
+          "presenter_action": "長揸",
+          "presenter_size": "能源配置一部分",
+          "investment_verdict": "✅ 長揸當通脹對冲，即使油價跌都不會大跌",
+          "risks_to_watch": [
+            "經濟衰退",
+            "油價波动",
+            "OPEC+產量決策"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
+      ],
+      "updated_at": "2026-05-02T15:52:39.176832Z"
     },
     {
       "id": "ent-20260502-deep-x2hYFfXCS00",
@@ -407,7 +851,148 @@
         "vs 紅磡索螺絲 2025-04-13（美伊封鎖海峽）：2025-04-22美國延長停火但海峽繼續封鎖，2025-04-13美伊談判失敗美國封鎖海峽——呼應：都聚焦海峽封鎖對能源供應既影響",
         "vs 紅磡索螺絲 2025-04-28（油價/XLE/PM）：兩者都討論能源股（XLE）和PM持倉，2025-04-28強調油價不會大跌——呼應：能源後遺症持續支持能源股",
         "vs 紅磡索螺絲 2025-03-23（黑色星期一）：兩者都提到PM作為核心持倉，地緣政治風險影響市場——呼應：亂局中PM有防守作用"
-      ]
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        },
+        {
+          "ticker": "0883.HK",
+          "company": "中海油",
+          "quotes": [],
+          "key_data": {
+            "用途": "港股能源股代表"
+          },
+          "bull_case": "港股能源股代表，受通脹支持",
+          "bear_case": "中國經濟放緩打擊需求",
+          "presenter_action": "關注",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 港股能源配置，有通脹對冲作用",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "XLE",
+          "company": "Energy Select Sector SPDR",
+          "quotes": [
+            "大行預測油價跌返60美元係違反常識",
+            "即使和平，油價都要一段時間先恢復"
+          ],
+          "key_data": {
+            "用途": "能源ETF",
+            "主持觀點": "供應恢復需時，油價唔會大跌"
+          },
+          "bull_case": "能源後遺症持續，封鎖影響供應，各國補充庫存需時，油價高位支持",
+          "bear_case": "經濟放緩打擊需求，油價如果大跌影響表現",
+          "presenter_action": "長揸",
+          "presenter_size": "能源配置一部分",
+          "investment_verdict": "✅ 長揸當通脹對冲，即使油價跌都不會大跌",
+          "risks_to_watch": [
+            "經濟衰退",
+            "油價波动",
+            "OPEC+產量決策"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
+      ],
+      "updated_at": "2026-05-02T15:52:39.176850Z"
     },
     {
       "id": "ent-20260502-deep-uj8wJ75IxnA",
@@ -505,7 +1090,151 @@
         "vs 紅磡索螺絲 2025-04-22（美國延長停火）：2025-04-22美國延長停火但海峽繼續封鎖，2025-04-13美伊談判失敗封鎖海峽——呼應：都聚焦海峽封鎖對能源供應既影響",
         "vs 陶東 2026-03-22（伊朗局勢）：陶東分析伊朗局勢升級，布倫特原油突破150美元；紅磡2025-04-13提到美伊談判失敗封鎖海峽——補充：陶東更詳細分析油價飆升對全球供應鏈既影響",
         "vs 紅磡索螺絲 2025-03-23（黑色星期一）：2025-03-23提到特朗普對伊朗發48小時最後通諜引發黑色星期一，2025-04-13美伊談判失敗封鎖海峽——呼應：地緣政治風險持續影響市場"
-      ]
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "XLE",
+          "company": "Energy Select Sector SPDR",
+          "quotes": [
+            "大行預測油價跌返60美元係違反常識",
+            "即使和平，油價都要一段時間先恢復"
+          ],
+          "key_data": {
+            "用途": "能源ETF",
+            "主持觀點": "供應恢復需時，油價唔會大跌"
+          },
+          "bull_case": "能源後遺症持續，封鎖影響供應，各國補充庫存需時，油價高位支持",
+          "bear_case": "經濟放緩打擊需求，油價如果大跌影響表現",
+          "presenter_action": "長揸",
+          "presenter_size": "能源配置一部分",
+          "investment_verdict": "✅ 長揸當通脹對冲，即使油價跌都不會大跌",
+          "risks_to_watch": [
+            "經濟衰退",
+            "油價波动",
+            "OPEC+產量決策"
+          ]
+        },
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        },
+        {
+          "ticker": "BTI",
+          "company": "British American Tobacco",
+          "quotes": [],
+          "key_data": {
+            "行業": "煙草",
+            "主持評價": "防守性持倉"
+          },
+          "bull_case": "煙草係生活剛需，高息回報防守性高",
+          "bear_case": "監管壓力大，訴訟風險高",
+          "presenter_action": "長揸",
+          "presenter_size": "第三大持倉",
+          "investment_verdict": "✅ 長揸收息，防守角色",
+          "risks_to_watch": [
+            "監管",
+            "訴訟",
+            "吸煙率下降"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
+      ],
+      "updated_at": "2026-05-02T15:52:39.176868Z"
     },
     {
       "id": "ent-20260502-deep-G7B5_Q91RQE",
@@ -605,7 +1334,145 @@
         "vs 紅磡索螺絲 2025-04-22（美國延長停火）：兩者都提到PM作為核心持倉，地緣政治風險影響市場——呼應：亂局中PM有防守作用",
         "vs 紅磡索螺絲 2025-04-24（PM低位加倉）：2025-04-24提到PM係最主要防守股，2025-03-23提到PM係最重要持倉——呼應：PM係長線持有對象",
         "vs 匿名交易員 2026-03-19（月虧損4.7%）：2026-03-19交易員月虧損4.7%，紅磡2025-03-23坦言今個月有損失——呼應：都提醒設定止蝕位、控制槓桿既重要性"
-      ]
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        },
+        {
+          "ticker": "BTI",
+          "company": "British American Tobacco",
+          "quotes": [],
+          "key_data": {
+            "行業": "煙草",
+            "主持評價": "防守性持倉"
+          },
+          "bull_case": "煙草係生活剛需，高息回報防守性高",
+          "bear_case": "監管壓力大，訴訟風險高",
+          "presenter_action": "長揸",
+          "presenter_size": "第三大持倉",
+          "investment_verdict": "✅ 長揸收息，防守角色",
+          "risks_to_watch": [
+            "監管",
+            "訴訟",
+            "吸煙率下降"
+          ]
+        },
+        {
+          "ticker": "GLD",
+          "company": "SPDR Gold Shares",
+          "quotes": [],
+          "key_data": {
+            "用途": "避險"
+          },
+          "bull_case": "地緣政治不穩定時發揮避險作用",
+          "bear_case": "無息收入，機會成本",
+          "presenter_action": "配置一部分",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 組合避險配置",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
+      ],
+      "updated_at": "2026-05-02T15:52:39.176892Z"
     },
     {
       "id": "ent-20250428-qcjlWuJnvnM",
@@ -700,7 +1567,7 @@
         "XLE"
       ],
       "created_at": "2026-05-02T07:26:50.535661Z",
-      "updated_at": "2026-05-02T07:26:50.535661Z",
+      "updated_at": "2026-05-02T15:52:39.176909Z",
       "logic_chain": [
         "前設：現時市場充斥唔少噪音 → 太多人過度分析反而影響判斷 → 選擇專注自己倉位，唔理會短期波動",
         "前設：長線持有高息股（PM、BTI）係穩守之道 → 生活剛需不受周期影響 → 高息股喺波動市況下提供穩定現金流",
@@ -712,6 +1579,149 @@
         "vs 紅磡索螺絲 2025-04-27（Intel/半導體）：兩者都討論市場噪音和長線投資策略，2025-04-27提到Intel低位反彈——呼應：都強調長線持有紀律",
         "vs 紅磡索螺絲 2025-04-24（PM回血）：兩者都提到PM、BTI作為防守股，2025-04-24強調PM長揸收息——呼應：都認為高息股係防守市況下既穩守選擇",
         "vs 紅磡索螺絲 2025-03-05（納指反彈）：兩者都強調長線投資紀律，唔好因為短期波動而被震走——呼應：都提醒要分清周期股同成長股"
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        },
+        {
+          "ticker": "BTI",
+          "company": "British American Tobacco",
+          "quotes": [],
+          "key_data": {
+            "行業": "煙草",
+            "主持評價": "防守性持倉"
+          },
+          "bull_case": "煙草係生活剛需，高息回報防守性高",
+          "bear_case": "監管壓力大，訴訟風險高",
+          "presenter_action": "長揸",
+          "presenter_size": "第三大持倉",
+          "investment_verdict": "✅ 長揸收息，防守角色",
+          "risks_to_watch": [
+            "監管",
+            "訴訟",
+            "吸煙率下降"
+          ]
+        },
+        {
+          "ticker": "XLE",
+          "company": "Energy Select Sector SPDR",
+          "quotes": [
+            "大行預測油價跌返60美元係違反常識",
+            "即使和平，油價都要一段時間先恢復"
+          ],
+          "key_data": {
+            "用途": "能源ETF",
+            "主持觀點": "供應恢復需時，油價唔會大跌"
+          },
+          "bull_case": "能源後遺症持續，封鎖影響供應，各國補充庫存需時，油價高位支持",
+          "bear_case": "經濟放緩打擊需求，油價如果大跌影響表現",
+          "presenter_action": "長揸",
+          "presenter_size": "能源配置一部分",
+          "investment_verdict": "✅ 長揸當通脹對冲，即使油價跌都不會大跌",
+          "risks_to_watch": [
+            "經濟衰退",
+            "油價波动",
+            "OPEC+產量決策"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
       ]
     },
     {
@@ -821,7 +1831,7 @@
         "CG"
       ],
       "created_at": "2026-05-02T07:26:50.535658Z",
-      "updated_at": "2026-05-02T07:26:50.535658Z",
+      "updated_at": "2026-05-02T15:52:39.176930Z",
       "logic_chain": [
         "前設：Intel業績後大升顯示半導體板塊關注度回升 → 但要分辨邊啲公司有基本因素支持 → 邊啲只係概念炒作",
         "前設：記憶體晶片股（MU）估值便宜但存在週期性 → 呢個係硬件投資者要面對既現實 → 半導體投資要分清楚周期股定成長股",
@@ -833,6 +1843,168 @@
         "vs 紅磡索螺絲 2025-04-28（投資方法）：2025-04-28提到AI股爭議，要區分周期股定長期成長股，2025-04-27詳細分析AI GPU需求持續性——呼應：都聚焦AI股估值問題",
         "vs 紅磡索螺絲 2025-03-05（納指反彈）：兩者都討論半導體周期和AI需求，2025-03-05強調硬件股有週期性——呼應：都提醒要分清周期股同成長股",
         "vs 蔡金強 2026-03-21（2026策略）：蔡金強提到AI上游版塊較好，紅磡2025-04-27分析AI GPU——補充：蔡金強認為AI上游比整體AI更好"
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "INTC",
+          "company": "Intel",
+          "quotes": [],
+          "key_data": {
+            "現價": "$30-40（從高位80美元回落）",
+            "主持觀點": "低位反彈機會"
+          },
+          "bull_case": "從高位回落超賣，業績後低位反彈機會",
+          "bear_case": "基本面未完全崩溃，但復甦需時",
+          "presenter_action": "低位吸納，捕捉復甦",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 低位反彈機會，但唔係主要倉位",
+          "risks_to_watch": [
+            "復甦不及預期",
+            "AMD競爭"
+          ]
+        },
+        {
+          "ticker": "MU",
+          "company": "MU",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "quotes": [
+            "NVDA PE低但爭議大",
+            "美光今年賺1000億美元，但呢個係周期性好景"
+          ],
+          "key_data": {
+            "主持觀點": "PE低但爭議大",
+            "爭議": "AI需求是否持續"
+          },
+          "bull_case": "AI滲透率持續提升，GPU需求強勁",
+          "bear_case": "美光今年賺1000億美元，但呢個係周期性好景，AI股可能係周期股",
+          "presenter_action": "持有，唔會高追",
+          "presenter_size": "有持有",
+          "investment_verdict": "⚠️ 等回調先入，PE低但爭議大，要確認AI需求係咪持續",
+          "risks_to_watch": [
+            "AI需求周期見頂",
+            "GPU過剩",
+            "競爭加劇"
+          ]
+        },
+        {
+          "ticker": "AMZN",
+          "company": "Amazon",
+          "quotes": [],
+          "key_data": {
+            "主持操作": "跟基金經理低位買入",
+            "持有回報": "約14%"
+          },
+          "bull_case": "電商+雲端雙軌發展，雲端業務增長強勁",
+          "bear_case": "電商競爭激烈",
+          "presenter_action": "長揸",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 長線持有，回報約14%",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "CG",
+          "company": "CG",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
       ]
     },
     {
@@ -926,7 +2098,7 @@
         "BTI"
       ],
       "created_at": "2026-05-02T07:26:50.535656Z",
-      "updated_at": "2026-05-02T07:26:50.535656Z",
+      "updated_at": "2026-05-02T15:52:39.176953Z",
       "logic_chain": [
         "前設：PM係典型高息防守股 → 提供穩定現金流 → 生活剛需產品不受經濟周期影響",
         "前設：PM 30年平均回報7.3厘，標準差只係約7厘 → 表現穩健 → 即使年輕人都應該有某程度上既防守配置",
@@ -938,6 +2110,149 @@
         "vs 紅磡索螺絲 2025-04-28（投資方法）：兩者都提到PM、BTI作為防守股，2025-04-24強調資產配置需要防守——呼應：都認為高息股係防守市況下既穩守選擇",
         "vs 紅磡索螺絲 2025-04-22（美國延長停火）：兩者都提到PM作為核心持倉，2025-04-22分析中海油和PM——呼應：PM係長線持有對象",
         "vs 紅磡索螺絲 2025-04-13（美伊封鎖海峽）：2025-04-13強調亂局中PM、BTI有保護作用，2025-04-24強調防守股功能——呼應：都認為PM係防守配置首選"
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        },
+        {
+          "ticker": "BTI",
+          "company": "British American Tobacco",
+          "quotes": [],
+          "key_data": {
+            "行業": "煙草",
+            "主持評價": "防守性持倉"
+          },
+          "bull_case": "煙草係生活剛需，高息回報防守性高",
+          "bear_case": "監管壓力大，訴訟風險高",
+          "presenter_action": "長揸",
+          "presenter_size": "第三大持倉",
+          "investment_verdict": "✅ 長揸收息，防守角色",
+          "risks_to_watch": [
+            "監管",
+            "訴訟",
+            "吸煙率下降"
+          ]
+        },
+        {
+          "ticker": "XLE",
+          "company": "Energy Select Sector SPDR",
+          "quotes": [
+            "大行預測油價跌返60美元係違反常識",
+            "即使和平，油價都要一段時間先恢復"
+          ],
+          "key_data": {
+            "用途": "能源ETF",
+            "主持觀點": "供應恢復需時，油價唔會大跌"
+          },
+          "bull_case": "能源後遺症持續，封鎖影響供應，各國補充庫存需時，油價高位支持",
+          "bear_case": "經濟放緩打擊需求，油價如果大跌影響表現",
+          "presenter_action": "長揸",
+          "presenter_size": "能源配置一部分",
+          "investment_verdict": "✅ 長揸當通脹對冲，即使油價跌都不會大跌",
+          "risks_to_watch": [
+            "經濟衰退",
+            "油價波动",
+            "OPEC+產量決策"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
       ]
     },
     {
@@ -1032,7 +2347,7 @@
         "PM"
       ],
       "created_at": "2026-05-02T07:26:50.535653Z",
-      "updated_at": "2026-05-02T07:26:50.535653Z",
+      "updated_at": "2026-05-02T15:52:39.178558Z",
       "logic_chain": [
         "前設：美國延長停火談判影響市場情緒 → 海峽封鎖風險直接影響能源航運 → 地緣政治係影響油價同通脹既關鍵因素",
         "前設：黃金喺地緣政治不穩定時發揮避險作用 → 黃金同能源喺地緣政治緊張時有避險同通脹對沖作用 → 投資組合需要有一定避險配置",
@@ -1043,6 +2358,146 @@
         "vs 紅磡索螺絲 2025-04-13（美伊封鎖海峽）：2025-04-13美伊談判失敗封鎖海峽，2025-04-22美國延長停火但海峽繼續封鎖——呼應：都聚焦海峽封鎖對能源供應既影響",
         "vs 紅磡索螺絲 2025-04-28（油價/XLE/PM）：兩者都討論能源股（XLE）和PM，2025-04-28強調油價不會大跌——呼應：能源後遺症持續支持能源股",
         "vs 陶東 2026-03-22（伊朗局勢）：陶東分析伊朗局勢升級對能源供應鏈既影響，紅磡2025-04-22討論海峽封鎖風險——呼應：都聚焦地緣政治對能源市場既影響"
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "XLE",
+          "company": "Energy Select Sector SPDR",
+          "quotes": [
+            "大行預測油價跌返60美元係違反常識",
+            "即使和平，油價都要一段時間先恢復"
+          ],
+          "key_data": {
+            "用途": "能源ETF",
+            "主持觀點": "供應恢復需時，油價唔會大跌"
+          },
+          "bull_case": "能源後遺症持續，封鎖影響供應，各國補充庫存需時，油價高位支持",
+          "bear_case": "經濟放緩打擊需求，油價如果大跌影響表現",
+          "presenter_action": "長揸",
+          "presenter_size": "能源配置一部分",
+          "investment_verdict": "✅ 長揸當通脹對冲，即使油價跌都不會大跌",
+          "risks_to_watch": [
+            "經濟衰退",
+            "油價波动",
+            "OPEC+產量決策"
+          ]
+        },
+        {
+          "ticker": "GLD",
+          "company": "SPDR Gold Shares",
+          "quotes": [],
+          "key_data": {
+            "用途": "避險"
+          },
+          "bull_case": "地緣政治不穩定時發揮避險作用",
+          "bear_case": "無息收入，機會成本",
+          "presenter_action": "配置一部分",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 組合避險配置",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
       ]
     },
     {
@@ -1137,7 +2592,7 @@
         "PM"
       ],
       "created_at": "2026-05-02T07:26:50.535651Z",
-      "updated_at": "2026-05-02T07:26:50.535651Z",
+      "updated_at": "2026-05-02T15:52:39.178701Z",
       "logic_chain": [
         "前設：美伊談判僵局導致海峽封鎖風險上升 → 波斯灣係全球最重要石油運輸通道之一 → 封鎖後果嚴重",
         "前設：能源股（XLE）會受惠於油價上漲 → 黃金係地緣政治危機下既避險工具 → 能源ETF提供直接既油價風險暴露",
@@ -1148,6 +2603,146 @@
         "vs 紅磡索螺絲 2025-04-22（美國延長停火）：2025-04-22美國延長停火但海峽繼續封鎖，2025-04-13美伊談判失敗封鎖海峽——呼應：都聚焦海峽封鎖對能源供應既影響",
         "vs 陶東 2026-03-22（伊朗局勢）：陶東分析伊朗局勢升級，布倫特原油突破150美元；紅磡2025-04-13美伊談判失敗封鎖海峽——呼應：都關注中東局勢對能源供應既影響",
         "vs 陶東 2026-03-17（中東資金/私募信貸）：陶東分析中東資金撤離風險資產，紅磡2025-04-13討論美伊封鎖——補充：陶東更宏觀分析中東資金流向對金融市場既影響"
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "XLE",
+          "company": "Energy Select Sector SPDR",
+          "quotes": [
+            "大行預測油價跌返60美元係違反常識",
+            "即使和平，油價都要一段時間先恢復"
+          ],
+          "key_data": {
+            "用途": "能源ETF",
+            "主持觀點": "供應恢復需時，油價唔會大跌"
+          },
+          "bull_case": "能源後遺症持續，封鎖影響供應，各國補充庫存需時，油價高位支持",
+          "bear_case": "經濟放緩打擊需求，油價如果大跌影響表現",
+          "presenter_action": "長揸",
+          "presenter_size": "能源配置一部分",
+          "investment_verdict": "✅ 長揸當通脹對冲，即使油價跌都不會大跌",
+          "risks_to_watch": [
+            "經濟衰退",
+            "油價波动",
+            "OPEC+產量決策"
+          ]
+        },
+        {
+          "ticker": "GLD",
+          "company": "SPDR Gold Shares",
+          "quotes": [],
+          "key_data": {
+            "用途": "避險"
+          },
+          "bull_case": "地緣政治不穩定時發揮避險作用",
+          "bear_case": "無息收入，機會成本",
+          "presenter_action": "配置一部分",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 組合避險配置",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
       ]
     },
     {
@@ -1251,7 +2846,7 @@
         "MCD"
       ],
       "created_at": "2026-05-02T07:26:50.535648Z",
-      "updated_at": "2026-05-02T07:26:50.535648Z",
+      "updated_at": "2026-05-02T15:52:39.178763Z",
       "logic_chain": [
         "前設：股債同時下跌 → 60/40配置模型失效 → 避險資產喺大跌市中提供保護",
         "前設：跌市係學習止血紀律既最好時機 → 如果唔夠狠心地止蝕，損失就會不斷擴大 → 恐慌性抛售係投資者常犯既錯誤",
@@ -1263,6 +2858,170 @@
         "vs 紅磡索螺絲 2025-04-13（美伊封鎖海峽）：2025-04-13美伊談判失敗封鎖海峽，2025-03-23特朗普對伊朗發最後通諜引發黑色星期一——呼應：地緣政治風險導致市場動盪",
         "vs 匿名交易員 2026-03-19（月虧損4.7%）：2026-03-19交易員月虧損4.7%，紅磡2025-03-23坦言今個月有損失——呼應：都提醒設定止蝕位、控制槓桿既重要性",
         "vs 紅磡索螺絲 2026-03-21（月結）：兩者都是月結分享，紅磡2026-03-21本月暫時輸1%——呼應：都公開自己既投資表現"
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        },
+        {
+          "ticker": "XLE",
+          "company": "Energy Select Sector SPDR",
+          "quotes": [
+            "大行預測油價跌返60美元係違反常識",
+            "即使和平，油價都要一段時間先恢復"
+          ],
+          "key_data": {
+            "用途": "能源ETF",
+            "主持觀點": "供應恢復需時，油價唔會大跌"
+          },
+          "bull_case": "能源後遺症持續，封鎖影響供應，各國補充庫存需時，油價高位支持",
+          "bear_case": "經濟放緩打擊需求，油價如果大跌影響表現",
+          "presenter_action": "長揸",
+          "presenter_size": "能源配置一部分",
+          "investment_verdict": "✅ 長揸當通脹對冲，即使油價跌都不會大跌",
+          "risks_to_watch": [
+            "經濟衰退",
+            "油價波动",
+            "OPEC+產量決策"
+          ]
+        },
+        {
+          "ticker": "BRK",
+          "company": "Berkshire Hathaway",
+          "quotes": [
+            "BRK呢其實係難睇嘅，你最簡單睇嘅方法係咩呢？佢咪一萬億嘅cash呀",
+            "用PB嚟睇，唔係話特別平㗎，BRK係好複雜"
+          ],
+          "key_data": {
+            "手持現金": "~$3000億（2024年Q4）",
+            "主持透露": "三球倉位",
+            "估值方法": "用PB"
+          },
+          "bull_case": "史上最強現金儲備，危機時有能力掃貨；多元化業務，降低單一風險",
+          "bear_case": "複雜難分析；手持大量現金喺低息環境係成本；接班人問題",
+          "presenter_action": "長揸",
+          "presenter_size": "三球（~$3,000,000）",
+          "investment_verdict": "✅ 適合長線投資者，當係組合嘅壓艙石",
+          "risks_to_watch": [
+            "接班人計劃執行",
+            "Apple佔比太高",
+            "利率上升影響現金價值"
+          ]
+        },
+        {
+          "ticker": "MCD",
+          "company": "McDonald's",
+          "quotes": [],
+          "key_data": {
+            "用途": "長線收息",
+            "主持操作": "買入10萬美元"
+          },
+          "bull_case": "生活剛需，長線收息穩定",
+          "bear_case": "消費放緩打擊快餐需求",
+          "presenter_action": "新買入",
+          "presenter_size": "10萬美元",
+          "investment_verdict": "✅ 長線收息股",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
       ]
     },
     {
@@ -1364,7 +3123,7 @@
         "PM"
       ],
       "created_at": "2026-05-02T07:26:50.535626Z",
-      "updated_at": "2026-05-02T07:26:50.535626Z",
+      "updated_at": "2026-05-02T15:52:39.178800Z",
       "logic_chain": [
         "前設：納指反彈主要由AI相關股票帶動 → 但要搞清楚科技股係咪真係已經見底 → 定係只係死貓彈",
         "前設：AI硬件股有明確週期性 → 唔可以當成長股咁樣估值 → 半導體行業有固定周期",
@@ -1376,6 +3135,161 @@
         "vs 紅磡索螺絲 2025-04-28（投資方法）：兩者都強調要區分周期股同成長股，2025-04-28提到AI股爭議——呼應：AI股估值過高可能是因為太多人討論",
         "vs 紅磡索螺絲 2025-04-27（Intel/半導體）：兩者都討論半導體周期和AI需求，2025-04-27強調記憶體晶片有週期性——呼應：硬件股唔可以當成長股估值",
         "vs 蔡金強 2026-03-21（2026策略）：蔡金強提到AI上游版塊較好，紅磡2025-03-05強調AI硬件有週期性——補充：蔡金強認為AI上游比整體AI更安全"
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "~$3000萬-5000萬（估計）",
+        "strategy_note": "長線為主，唔做短炒；核心持倉穩定，唔好乱郁",
+        "stocks": [
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股/收息",
+            "note": "最主要持倉"
+          },
+          {
+            "ticker": "BTI",
+            "action": "長揸",
+            "role": "煙草",
+            "note": "第三大持倉"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "能源/通脹對冲",
+            "note": "供應恢復需時"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI股",
+            "note": "唔會高追"
+          },
+          {
+            "ticker": "META",
+            "action": "長揸",
+            "role": "科技",
+            "note": "長線持有"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "quotes": [
+            "NVDA PE低但爭議大",
+            "美光今年賺1000億美元，但呢個係周期性好景"
+          ],
+          "key_data": {
+            "主持觀點": "PE低但爭議大",
+            "爭議": "AI需求是否持續"
+          },
+          "bull_case": "AI滲透率持續提升，GPU需求強勁",
+          "bear_case": "美光今年賺1000億美元，但呢個係周期性好景，AI股可能係周期股",
+          "presenter_action": "持有，唔會高追",
+          "presenter_size": "有持有",
+          "investment_verdict": "⚠️ 等回調先入，PE低但爭議大，要確認AI需求係咪持續",
+          "risks_to_watch": [
+            "AI需求周期見頂",
+            "GPU過剩",
+            "競爭加劇"
+          ]
+        },
+        {
+          "ticker": "AMZN",
+          "company": "Amazon",
+          "quotes": [],
+          "key_data": {
+            "主持操作": "跟基金經理低位買入",
+            "持有回報": "約14%"
+          },
+          "bull_case": "電商+雲端雙軌發展，雲端業務增長強勁",
+          "bear_case": "電商競爭激烈",
+          "presenter_action": "長揸",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 長線持有，回報約14%",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "ADBE",
+          "company": "Adobe",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "軟件股現金流穩定",
+          "bear_case": "估值较高",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 軟件股長線可持有",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
       ]
     },
     {
@@ -1534,7 +3448,294 @@
         "vs 紅磡索螺絲 2026-03-21（月結持倉）：兩者都係紅磡索螺絲分享真實倉位，2026-03-21月結亦有提到BRK、Visa等——今集最新，倉位可能有變動",
         "vs 蔡金強 2026-03-21（2026策略）：蔡金強話油股可以「賺息賺價」，紅磡話XLE係長揸——兩者都睇好能源股",
         "vs 陶東 2026-03-22（伊朗局勢）：陶東話油價可能升至150美元，但紅磡話即使和平都要一段時間恢復——供應恢復慢係兩者共識"
-      ]
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "三球（~$3,000,000，主持人透露）",
+        "strategy_note": "長線為主，唔做短炒；專注自己懂的範疇；倉位精簡為主",
+        "stocks": [
+          {
+            "ticker": "0388.HK",
+            "action": "長揸",
+            "role": "港股龍頭",
+            "note": "IPO集資回暖受益"
+          },
+          {
+            "ticker": "AMZN",
+            "action": "長揸",
+            "role": "電商+雲端",
+            "note": "跟基金經理買入，約14%回報"
+          },
+          {
+            "ticker": "V",
+            "action": "長揸",
+            "role": "消費金融",
+            "note": "~$330合理估值"
+          },
+          {
+            "ticker": "BRK.B",
+            "action": "長揸",
+            "role": "核心持倉",
+            "note": "手持1萬億現金"
+          },
+          {
+            "ticker": "MCD",
+            "action": "新買入",
+            "role": "長線收息",
+            "note": "10萬美元"
+          },
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股",
+            "note": "主要持倉之一"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI/半導體",
+            "note": "PE低但爭議大"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "通脹對冲",
+            "note": "目標價唔設"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "XLE",
+          "company": "Energy Select Sector SPDR",
+          "quotes": [
+            "大行預測油價跌返60美元係違反常識",
+            "即使和平，油價都要一段時間先恢復"
+          ],
+          "key_data": {
+            "用途": "能源ETF",
+            "主持觀點": "供應恢復需時，油價唔會大跌"
+          },
+          "bull_case": "能源後遺症持續，封鎖影響供應，各國補充庫存需時，油價高位支持",
+          "bear_case": "經濟放緩打擊需求，油價如果大跌影響表現",
+          "presenter_action": "長揸",
+          "presenter_size": "能源配置一部分",
+          "investment_verdict": "✅ 長揸當通脹對冲，即使油價跌都不會大跌",
+          "risks_to_watch": [
+            "經濟衰退",
+            "油價波动",
+            "OPEC+產量決策"
+          ]
+        },
+        {
+          "ticker": "AMZN",
+          "company": "Amazon",
+          "quotes": [],
+          "key_data": {
+            "主持操作": "跟基金經理低位買入",
+            "持有回報": "約14%"
+          },
+          "bull_case": "電商+雲端雙軌發展，雲端業務增長強勁",
+          "bear_case": "電商競爭激烈",
+          "presenter_action": "長揸",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 長線持有，回報約14%",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "V",
+          "company": "Visa",
+          "quotes": [
+            "Visa於，好似都係330左右，呢個位冇乜點都郁過",
+            "Visa季度利潤60億美元"
+          ],
+          "key_data": {
+            "季度利潤": "60億美元",
+            "EPS": "~$17",
+            "主持估值": "$330合理"
+          },
+          "bull_case": "消費必需品，經濟衰退期防守性高；電子支付滲透率持續提升",
+          "bear_case": "增長已放緩；受經濟周期影響",
+          "presenter_action": "長揸",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 穩健持倉，收息兼防守",
+          "risks_to_watch": [
+            "經濟衰退打擊消費",
+            "監管風險",
+            "新競爭者"
+          ]
+        },
+        {
+          "ticker": "BRK",
+          "company": "Berkshire Hathaway",
+          "quotes": [
+            "BRK呢其實係難睇嘅，你最簡單睇嘅方法係咩呢？佢咪一萬億嘅cash呀",
+            "用PB嚟睇，唔係話特別平㗎，BRK係好複雜"
+          ],
+          "key_data": {
+            "手持現金": "~$3000億（2024年Q4）",
+            "主持透露": "三球倉位",
+            "估值方法": "用PB"
+          },
+          "bull_case": "史上最強現金儲備，危機時有能力掃貨；多元化業務，降低單一風險",
+          "bear_case": "複雜難分析；手持大量現金喺低息環境係成本；接班人問題",
+          "presenter_action": "長揸",
+          "presenter_size": "三球（~$3,000,000）",
+          "investment_verdict": "✅ 適合長線投資者，當係組合嘅壓艙石",
+          "risks_to_watch": [
+            "接班人計劃執行",
+            "Apple佔比太高",
+            "利率上升影響現金價值"
+          ]
+        },
+        {
+          "ticker": "MCD",
+          "company": "McDonald's",
+          "quotes": [],
+          "key_data": {
+            "用途": "長線收息",
+            "主持操作": "買入10萬美元"
+          },
+          "bull_case": "生活剛需，長線收息穩定",
+          "bear_case": "消費放緩打擊快餐需求",
+          "presenter_action": "新買入",
+          "presenter_size": "10萬美元",
+          "investment_verdict": "✅ 長線收息股",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        },
+        {
+          "ticker": "NVDA",
+          "company": "NVIDIA",
+          "quotes": [
+            "NVDA PE低但爭議大",
+            "美光今年賺1000億美元，但呢個係周期性好景"
+          ],
+          "key_data": {
+            "主持觀點": "PE低但爭議大",
+            "爭議": "AI需求是否持續"
+          },
+          "bull_case": "AI滲透率持續提升，GPU需求強勁",
+          "bear_case": "美光今年賺1000億美元，但呢個係周期性好景，AI股可能係周期股",
+          "presenter_action": "持有，唔會高追",
+          "presenter_size": "有持有",
+          "investment_verdict": "⚠️ 等回調先入，PE低但爭議大，要確認AI需求係咪持續",
+          "risks_to_watch": [
+            "AI需求周期見頂",
+            "GPU過剩",
+            "競爭加劇"
+          ]
+        },
+        {
+          "ticker": "URG",
+          "company": "URG",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "LB",
+          "company": "LB",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "URA",
+          "company": "URA",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
+      ],
+      "updated_at": "2026-05-02T15:52:39.178891Z"
     },
     {
       "id": "ent-20260322-pdf-1774168397-01",
@@ -1612,7 +3813,7 @@
         "01651.HK"
       ],
       "created_at": "2026-03-22T08:33:17Z",
-      "updated_at": "2026-03-22T08:33:17Z",
+      "updated_at": "2026-05-02T15:52:39.178913Z",
       "logic_chain": [
         "前設：2026上半財年收入24.97億元，同比增長26.2% → 毛利率提升2.5個百分點至34.6% → 盈利能力持續改善",
         "前設：AI液冷接頭上半財年銷售約1.2億元，佔國內銷售5.2% → 行業進入批量採購設備階段 → 2027財年有望成為業績主要驅動力",
@@ -1624,6 +3825,70 @@
         "vs 津上精密機床（中國）ent-20260322-pdf-1774168397-02（評級上調）：兩者都分析01651.HK上半財年強勁增長，2026-03-22興業證券首次覆蓋，2026-03-22另一份Crosby報告評級上調——呼應：都確認公司增長勢頭強勁",
         "vs 津上精密機床（中國）ent-20260322-pdf-1774139878-04：兩者都提到AI液冷接頭進入批量採購設備階段，2027財年有望成為主要驅動力——呼應：都聚焦AI液冷業務增長潛力",
         "vs 蔡金強 2026-03-21（2026策略）：蔡金強提到AI上游版塊較好，津上機床產品可用於AI散熱基礎設施——補充：津上床床係AI硬體供應鏈一部分"
+      ],
+      "presenter_profile": {
+        "name": "余小麗",
+        "age_approx": "分析員/機構",
+        "style": "sell-side research",
+        "portfolio_size_approx": "機構研究報告",
+        "key_principle": "專業分析報告"
+      },
+      "portfolio_summary": {
+        "total_approx": "sell-side research report",
+        "strategy_note": "分析師研究報告，目標價及評級僅供參考",
+        "stocks": [
+          {
+            "ticker": "01651.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "買入（首次）"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "01651.HK",
+          "company": "津上機床中國",
+          "quotes": [
+            "AI液冷接頭上半財年銷售約1.2億元，佔國內銷售5.2%",
+            "汽車行業銷售額10.3億元，同比增長51.6%"
+          ],
+          "key_data": {
+            "2026上半財年收入": "24.97億元(+26.2%)",
+            "淨利潤": "5.02億元(+47.7%)",
+            "毛利率": "34.6%",
+            "評級": "買入",
+            "目標價": "32.98港元（興業）/ 40.70港元（Crosby）"
+          },
+          "bull_case": "AI液冷接頭進入批量採購階段，2027財年有望成主要驅動力；汽車行業需求強勁(+51.6%)；毛利率持續提升；PE僅10.72倍",
+          "bear_case": "海外銷售額大跌48%；汽車行業環比下滑10.3%；人形機器人規模化時間不確定",
+          "presenter_action": "買入",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 買入評級（興業/ Crosby），AI液冷+汽車需求+產能擴張三重催化",
+          "risks_to_watch": [
+            "汽車需求放緩",
+            "AI液冷需求不及預期",
+            "人形機器人規模化慢",
+            "海外業務萎縮"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "買入津上機床中國（01651.HK）",
+          "rationale": "AI液冷接頭+汽車需求+產能擴張三重催化，PE 10.72倍估值吸引",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "目標價32.98-40.70港元",
+          "rationale": "興業首次覆蓋32.98港元，Crosby目標價40.70港元（12倍PE）",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "關注2027財年液冷接頭放量",
+          "rationale": "上半財年1.2億元，進入批量採購階段，2027財年有望成主要驅動力",
+          "applies_to": "01651.HK"
+        }
       ]
     },
     {
@@ -1701,7 +3966,7 @@
         "01651.HK"
       ],
       "created_at": "2026-03-22T08:33:17Z",
-      "updated_at": "2026-03-22T08:33:17Z",
+      "updated_at": "2026-05-02T15:52:39.178925Z",
       "logic_chain": [
         "前設：1H26淨利潤預計達人民幣5.02億元，年增約48% → 表現超預期 → 評級由中性上調至買入",
         "前設：第五座平湖廠區已投產 → 年產能增加3,000至4,000台 → 2025年5月再取得34畝土地，未來兩年產能再增3,000台",
@@ -1712,6 +3977,70 @@
         "vs 津上機床中國ent-20260322-pdf-1774168397-01：兩者都分析01651.HK上半財年強勁增長，興業首次覆蓋，2026-03-22 Crosby評級上調——呼應：都確認公司增長勢頭強勁",
         "vs 津上精密機床（中國）ent-20260322-pdf-1774139878-04：兩者都提到新產能陸續投入，2027財年預期強勁——呼應：都聚焦產能擴張推動增長",
         "vs 津上精密機床（中國）ent-20260322-pdf-1774139878-05：兩者都是Crosby發布，目標價由22.20港元升至40.70港元——呼應：同一分析師持續看好"
+      ],
+      "presenter_profile": {
+        "name": "陳儀雯 E Wuen Tan",
+        "age_approx": "分析員/機構",
+        "style": "sell-side research",
+        "portfolio_size_approx": "機構研究報告",
+        "key_principle": "專業分析報告"
+      },
+      "portfolio_summary": {
+        "total_approx": "sell-side research report",
+        "strategy_note": "分析師研究報告，目標價及評級僅供參考",
+        "stocks": [
+          {
+            "ticker": "01651.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "買入"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "01651.HK",
+          "company": "津上機床中國",
+          "quotes": [
+            "AI液冷接頭上半財年銷售約1.2億元，佔國內銷售5.2%",
+            "汽車行業銷售額10.3億元，同比增長51.6%"
+          ],
+          "key_data": {
+            "2026上半財年收入": "24.97億元(+26.2%)",
+            "淨利潤": "5.02億元(+47.7%)",
+            "毛利率": "34.6%",
+            "評級": "買入",
+            "目標價": "32.98港元（興業）/ 40.70港元（Crosby）"
+          },
+          "bull_case": "AI液冷接頭進入批量採購階段，2027財年有望成主要驅動力；汽車行業需求強勁(+51.6%)；毛利率持續提升；PE僅10.72倍",
+          "bear_case": "海外銷售額大跌48%；汽車行業環比下滑10.3%；人形機器人規模化時間不確定",
+          "presenter_action": "買入",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 買入評級（興業/ Crosby），AI液冷+汽車需求+產能擴張三重催化",
+          "risks_to_watch": [
+            "汽車需求放緩",
+            "AI液冷需求不及預期",
+            "人形機器人規模化慢",
+            "海外業務萎縮"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "買入津上機床中國（01651.HK）",
+          "rationale": "AI液冷接頭+汽車需求+產能擴張三重催化，PE 10.72倍估值吸引",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "目標價32.98-40.70港元",
+          "rationale": "興業首次覆蓋32.98港元，Crosby目標價40.70港元（12倍PE）",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "關注2027財年液冷接頭放量",
+          "rationale": "上半財年1.2億元，進入批量採購階段，2027財年有望成主要驅動力",
+          "applies_to": "01651.HK"
+        }
       ]
     },
     {
@@ -1794,7 +4123,7 @@
         "01651.HK"
       ],
       "created_at": "2026-03-22T00:37:58Z",
-      "updated_at": "2026-03-22T00:37:58Z",
+      "updated_at": "2026-05-02T15:52:39.178940Z",
       "logic_chain": [
         "前設：2026上半財年收入24.97億元，同比增長26.2%，淨利潤5.02億元 → 毛利率34.6%，半年ROE 15.5% → 盈利能力持續提升",
         "前設：AI液冷接頭上半財年銷售約1.2億元，佔國內銷售5.2% → 2025年1-9月已與數十家客戶簽訂設備訂單 → 行業進入批量採購階段",
@@ -1806,6 +4135,70 @@
         "vs 津上精密機床（中國）ent-20260322-pdf-1774168397-01：兩者都是興業證券發布，2026上半財年數據一致，都強調AI液冷接頭進入批量採購階段——呼應：興業持續看好",
         "vs 津上精密機床（中國）ent-20260322-pdf-1774139878-04：兩者都提到AI液冷接頭已進入批量採購設備階段，2027財年有望放量——呼應：都聚焦AI液冷業務",
         "vs 蔡金強 2026-03-21（2026策略）：蔡金強提到AI上游版塊較好，津上床床AI液冷產品可受惠——補充：都聚焦AI基礎設施相關投資機會"
+      ],
+      "presenter_profile": {
+        "name": "余小麗",
+        "age_approx": "分析員/機構",
+        "style": "sell-side research",
+        "portfolio_size_approx": "機構研究報告",
+        "key_principle": "專業分析報告"
+      },
+      "portfolio_summary": {
+        "total_approx": "sell-side research report",
+        "strategy_note": "分析師研究報告，目標價及評級僅供參考",
+        "stocks": [
+          {
+            "ticker": "01651.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "首次覆蓋給予買入評級"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "01651.HK",
+          "company": "津上機床中國",
+          "quotes": [
+            "AI液冷接頭上半財年銷售約1.2億元，佔國內銷售5.2%",
+            "汽車行業銷售額10.3億元，同比增長51.6%"
+          ],
+          "key_data": {
+            "2026上半財年收入": "24.97億元(+26.2%)",
+            "淨利潤": "5.02億元(+47.7%)",
+            "毛利率": "34.6%",
+            "評級": "買入",
+            "目標價": "32.98港元（興業）/ 40.70港元（Crosby）"
+          },
+          "bull_case": "AI液冷接頭進入批量採購階段，2027財年有望成主要驅動力；汽車行業需求強勁(+51.6%)；毛利率持續提升；PE僅10.72倍",
+          "bear_case": "海外銷售額大跌48%；汽車行業環比下滑10.3%；人形機器人規模化時間不確定",
+          "presenter_action": "買入",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 買入評級（興業/ Crosby），AI液冷+汽車需求+產能擴張三重催化",
+          "risks_to_watch": [
+            "汽車需求放緩",
+            "AI液冷需求不及預期",
+            "人形機器人規模化慢",
+            "海外業務萎縮"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "買入津上機床中國（01651.HK）",
+          "rationale": "AI液冷接頭+汽車需求+產能擴張三重催化，PE 10.72倍估值吸引",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "目標價32.98-40.70港元",
+          "rationale": "興業首次覆蓋32.98港元，Crosby目標價40.70港元（12倍PE）",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "關注2027財年液冷接頭放量",
+          "rationale": "上半財年1.2億元，進入批量採購階段，2027財年有望成主要驅動力",
+          "applies_to": "01651.HK"
+        }
       ]
     },
     {
@@ -1883,7 +4276,7 @@
         "01086.HK"
       ],
       "created_at": "2026-03-22T00:37:58Z",
-      "updated_at": "2026-03-22T00:37:58Z",
+      "updated_at": "2026-05-02T15:52:39.178954Z",
       "logic_chain": [
         "前設：2024年營收87.66億港元，同比增長10.3%；歸母淨利潤3.56億港元，同比增長74.9% → 落在預告區間中值 → 業績符合預期",
         "前設：高端品牌Cybex全年收入佔比達51%，H2同增22.1% → 成為核心增長驅動力 → 品牌升級策略見效",
@@ -1894,6 +4287,48 @@
       "cross_references": [
         "vs 東吳證券ent-20260322-pdf-1774139878-03（2026年度策略）：東吳策略報告提到消費出海中品牌與供應鏈出海，好孩子Cybex係高端品牌出海成功案例——呼應：都聚焦消費品牌升級",
         "vs 紅磡索螺絲 2025-04-24（PM回血）：兩者都強調高息股可以提供穩定現金流，PM長揸收息，好孩子重啟分紅4.5%——呼應：都關注高分紅回報"
+      ],
+      "presenter_profile": {
+        "name": "吳勁草、石旖瑄、王琳婧",
+        "age_approx": "分析員/機構",
+        "style": "sell-side research",
+        "portfolio_size_approx": "機構研究報告",
+        "key_principle": "專業分析報告"
+      },
+      "portfolio_summary": {
+        "total_approx": "sell-side research report",
+        "strategy_note": "分析師研究報告，目標價及評級僅供參考",
+        "stocks": [
+          {
+            "ticker": "01086.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "上調評級"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "01086.HK",
+          "company": "好孩子國際",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "依據分析師評級操作",
+          "rationale": "sell-side研究報告僅供參考",
+          "applies_to": "相關股票"
+        }
       ]
     },
     {
@@ -2003,7 +4438,7 @@
       ],
       "tickers": [],
       "created_at": "2026-03-22T00:37:58Z",
-      "updated_at": "2026-03-22T00:37:58Z",
+      "updated_at": "2026-05-02T15:52:39.178976Z",
       "logic_chain": [
         "前設：2025年在國補政策帶動下，可選品消費整體回暖 → 體育娛樂、家電音像、文化辦公等品類同比增速達18~21% → 消費復甦跡象明顯",
         "前設：「反內卷」政策推動下，8月起PPI及工業企業利潤明顯回升 → 8~9月同比均超20% → 大宗供應鏈復甦可期",
@@ -2014,6 +4449,148 @@
       "cross_references": [
         "vs 好孩子國際ent-20260322-pdf-1774139878-02：東吳策略報告提到消費出海中品牌與供應鏈出海，好孩子Cybex係高端品牌出海成功案例——呼應：都聚焦消費品牌升級",
         "vs 陸東 2026-03-21（港股33000）：兩者都討論港股和消費相關板塊，東吳策略提到線上消費持續優於線下——補充：陸東強調長線持有傳統科技龍頭"
+      ],
+      "presenter_profile": {
+        "name": "吳勁草、石旖瑄、陽靖、郗越、王琳婧、張家璇",
+        "age_approx": "分析員/機構",
+        "style": "sell-side research",
+        "portfolio_size_approx": "機構研究報告",
+        "key_principle": "專業分析報告"
+      },
+      "portfolio_summary": {
+        "total_approx": "sell-side research report",
+        "strategy_note": "分析師研究報告，目標價及評級僅供參考",
+        "stocks": [
+          {
+            "ticker": "00887.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "消費出海，義烏供應鏈出海代表性標的"
+          },
+          {
+            "ticker": "00590.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "黃金零售，受益金價高位延續需求"
+          },
+          {
+            "ticker": "09987.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "新消費人傳人效應"
+          },
+          {
+            "ticker": "09992.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "新消費人傳人效應"
+          },
+          {
+            "ticker": "01179.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "估值低位"
+          },
+          {
+            "ticker": "09896.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "估值低位"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "00887.HK",
+          "company": "00887.HK",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "00590.HK",
+          "company": "00590.HK",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "09987.HK",
+          "company": "09987.HK",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "09992.HK",
+          "company": "09992.HK",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "01179.HK",
+          "company": "01179.HK",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "09896.HK",
+          "company": "09896.HK",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "依據分析師評級操作",
+          "rationale": "sell-side研究報告僅供參考",
+          "applies_to": "相關股票"
+        }
       ]
     },
     {
@@ -2097,7 +4674,7 @@
         "01651.HK"
       ],
       "created_at": "2026-03-22T00:37:58Z",
-      "updated_at": "2026-03-22T00:37:58Z",
+      "updated_at": "2026-05-02T15:52:39.178988Z",
       "logic_chain": [
         "前設：1H26收入按年增長26.2%至人民幣25億元，淨利增長47.7%至人民幣5.0億元 → 毛利率擴張2.5個百分點至34.6% → 成本削減及效率提升見效",
         "前設：精密加工中心銷售額大幅增長157%，精密磨床增長47.5% → 產品結構持續優化 → 新興市場拓展見效",
@@ -2109,6 +4686,70 @@
         "vs 津上機床中國ent-20260322-pdf-1774168397-01：兩者都提到AI液冷接頭進入批量採購階段，2027財年有望成為主要驅動力——呼應：都聚焦AI液冷業務",
         "vs 津上精密機床（中國）ent-20260322-pdf-1774168397-02：兩者都是Crosby發布，1H26收入增長26.2%一致——呼應：都確認公司增長勢頭強勁",
         "vs 蔡金強 2026-03-21（2026策略）：蔡金強提到AI上游版塊較好，津上床床AI液冷產品可受惠——呼應：都聚焦AI基礎設施相關投資"
+      ],
+      "presenter_profile": {
+        "name": "陳儀雯 E Wuen Tan",
+        "age_approx": "分析員/機構",
+        "style": "sell-side research",
+        "portfolio_size_approx": "機構研究報告",
+        "key_principle": "專業分析報告"
+      },
+      "portfolio_summary": {
+        "total_approx": "sell-side research report",
+        "strategy_note": "分析師研究報告，目標價及評級僅供參考",
+        "stocks": [
+          {
+            "ticker": "01651.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "買入"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "01651.HK",
+          "company": "津上機床中國",
+          "quotes": [
+            "AI液冷接頭上半財年銷售約1.2億元，佔國內銷售5.2%",
+            "汽車行業銷售額10.3億元，同比增長51.6%"
+          ],
+          "key_data": {
+            "2026上半財年收入": "24.97億元(+26.2%)",
+            "淨利潤": "5.02億元(+47.7%)",
+            "毛利率": "34.6%",
+            "評級": "買入",
+            "目標價": "32.98港元（興業）/ 40.70港元（Crosby）"
+          },
+          "bull_case": "AI液冷接頭進入批量採購階段，2027財年有望成主要驅動力；汽車行業需求強勁(+51.6%)；毛利率持續提升；PE僅10.72倍",
+          "bear_case": "海外銷售額大跌48%；汽車行業環比下滑10.3%；人形機器人規模化時間不確定",
+          "presenter_action": "買入",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 買入評級（興業/ Crosby），AI液冷+汽車需求+產能擴張三重催化",
+          "risks_to_watch": [
+            "汽車需求放緩",
+            "AI液冷需求不及預期",
+            "人形機器人規模化慢",
+            "海外業務萎縮"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "買入津上機床中國（01651.HK）",
+          "rationale": "AI液冷接頭+汽車需求+產能擴張三重催化，PE 10.72倍估值吸引",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "目標價32.98-40.70港元",
+          "rationale": "興業首次覆蓋32.98港元，Crosby目標價40.70港元（12倍PE）",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "關注2027財年液冷接頭放量",
+          "rationale": "上半財年1.2億元，進入批量採購階段，2027財年有望成主要驅動力",
+          "applies_to": "01651.HK"
+        }
       ]
     },
     {
@@ -2188,7 +4829,7 @@
         "01651.HK"
       ],
       "created_at": "2026-03-22T00:37:58Z",
-      "updated_at": "2026-03-22T00:37:58Z",
+      "updated_at": "2026-05-02T15:52:39.179002Z",
       "logic_chain": [
         "前設：1H26淨利潤預計達人民幣5.02億元，年增約48% → 受惠於中國製造業結構性升級、新能源汽車及AI終端市場旺盛需求 → 評級由中性上調至買入",
         "前設：第五座平湖廠區2024年10月投產，年增產能3,000至4,000台 → 2025年5月再取得約34畝土地，規劃未來兩年再增兩座廠房 → 中長期產能擴張明確",
@@ -2199,6 +4840,70 @@
         "vs 津上精密機床（中國）ent-20260322-pdf-1774168397-02：兩者都是Crosby發布，1H26淨利潤增長48%一致，目標價都由22.20升至40.70港元——呼應：同一分析師持續看好",
         "vs 津上精密機床（中國）ent-20260322-pdf-1774139878-04：兩者都提到新產能（平湖廠區）陸續投產，未來兩年產能再增3,000台——呼應：都聚焦產能擴張",
         "vs 津上機床中國ent-20260322-pdf-1774168397-01：兩者都確認01651.HK 1H26淨利潤增長約48%——呼應：都確認公司強勁增長勢頭"
+      ],
+      "presenter_profile": {
+        "name": "陳儀雯 E Wuen Tan",
+        "age_approx": "分析員/機構",
+        "style": "sell-side research",
+        "portfolio_size_approx": "機構研究報告",
+        "key_principle": "專業分析報告"
+      },
+      "portfolio_summary": {
+        "total_approx": "sell-side research report",
+        "strategy_note": "分析師研究報告，目標價及評級僅供參考",
+        "stocks": [
+          {
+            "ticker": "01651.HK",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "買入"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "01651.HK",
+          "company": "津上機床中國",
+          "quotes": [
+            "AI液冷接頭上半財年銷售約1.2億元，佔國內銷售5.2%",
+            "汽車行業銷售額10.3億元，同比增長51.6%"
+          ],
+          "key_data": {
+            "2026上半財年收入": "24.97億元(+26.2%)",
+            "淨利潤": "5.02億元(+47.7%)",
+            "毛利率": "34.6%",
+            "評級": "買入",
+            "目標價": "32.98港元（興業）/ 40.70港元（Crosby）"
+          },
+          "bull_case": "AI液冷接頭進入批量採購階段，2027財年有望成主要驅動力；汽車行業需求強勁(+51.6%)；毛利率持續提升；PE僅10.72倍",
+          "bear_case": "海外銷售額大跌48%；汽車行業環比下滑10.3%；人形機器人規模化時間不確定",
+          "presenter_action": "買入",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 買入評級（興業/ Crosby），AI液冷+汽車需求+產能擴張三重催化",
+          "risks_to_watch": [
+            "汽車需求放緩",
+            "AI液冷需求不及預期",
+            "人形機器人規模化慢",
+            "海外業務萎縮"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "買入津上機床中國（01651.HK）",
+          "rationale": "AI液冷接頭+汽車需求+產能擴張三重催化，PE 10.72倍估值吸引",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "目標價32.98-40.70港元",
+          "rationale": "興業首次覆蓋32.98港元，Crosby目標價40.70港元（12倍PE）",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "關注2027財年液冷接頭放量",
+          "rationale": "上半財年1.2億元，進入批量採購階段，2027財年有望成主要驅動力",
+          "applies_to": "01651.HK"
+        }
       ]
     },
     {
@@ -2283,7 +4988,7 @@
         "01651.HK"
       ],
       "created_at": "2026-03-22T06:15:00Z",
-      "updated_at": "2026-03-22T06:15:00Z",
+      "updated_at": "2026-05-02T15:52:39.179014Z",
       "logic_chain": [
         "前設：上半財年收入24.97億元，同比增長26.2%，毛利率34.6% → 淨利潤5.02億元，同比增長47.7% → 盈利能力持續提升",
         "前設：AI液冷接頭銷售金額約1.2億元，佔國內銷售5.2% → 行業進入批量採購設備階段 → 2026下半財年有望放量，2027財年成為主要驅動力",
@@ -2295,6 +5000,70 @@
         "vs 津上精密機床（中國）ent-20260322-pdf-1774168397-02：兩者都給予01651.HK買入評級，目標價40.70港元，PE 10.72倍——呼應：興業同Crosby都看好",
         "vs 津上精密機床（中國）ent-20260322-pdf-1774139878-04：兩者都提到AI液冷接頭進入批量採購階段，2026下半財年及2027財年放量——呼應：都聚焦AI液冷業務",
         "vs 蔡金強 2026-03-21（2026策略）：蔡金強提到AI上游版塊較好，津上床床AI液冷產品可受惠——呼應：都認為AI上游比整體AI更好"
+      ],
+      "presenter_profile": {
+        "name": "余小丽",
+        "age_approx": "分析員/機構",
+        "style": "sell-side research",
+        "portfolio_size_approx": "機構研究報告",
+        "key_principle": "專業分析報告"
+      },
+      "portfolio_summary": {
+        "total_approx": "sell-side research report",
+        "strategy_note": "分析師研究報告，目標價及評級僅供參考",
+        "stocks": [
+          {
+            "ticker": "01651.HK (津上機床中國)",
+            "action": "buy/sell",
+            "role": "研究覆蓋",
+            "note": "首次買入評級，AI液冷接頭為新增長動力，目標PE 10.72倍"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "01651.HK (津上機床中國)",
+          "company": "津上機床中國",
+          "quotes": [
+            "AI液冷接頭上半財年銷售約1.2億元，佔國內銷售5.2%",
+            "汽車行業銷售額10.3億元，同比增長51.6%"
+          ],
+          "key_data": {
+            "2026上半財年收入": "24.97億元(+26.2%)",
+            "淨利潤": "5.02億元(+47.7%)",
+            "毛利率": "34.6%",
+            "評級": "買入",
+            "目標價": "32.98港元（興業）/ 40.70港元（Crosby）"
+          },
+          "bull_case": "AI液冷接頭進入批量採購階段，2027財年有望成主要驅動力；汽車行業需求強勁(+51.6%)；毛利率持續提升；PE僅10.72倍",
+          "bear_case": "海外銷售額大跌48%；汽車行業環比下滑10.3%；人形機器人規模化時間不確定",
+          "presenter_action": "買入",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 買入評級（興業/ Crosby），AI液冷+汽車需求+產能擴張三重催化",
+          "risks_to_watch": [
+            "汽車需求放緩",
+            "AI液冷需求不及預期",
+            "人形機器人規模化慢",
+            "海外業務萎縮"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "買入津上機床中國（01651.HK）",
+          "rationale": "AI液冷接頭+汽車需求+產能擴張三重催化，PE 10.72倍估值吸引",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "目標價32.98-40.70港元",
+          "rationale": "興業首次覆蓋32.98港元，Crosby目標價40.70港元（12倍PE）",
+          "applies_to": "01651.HK"
+        },
+        {
+          "action": "關注2027財年液冷接頭放量",
+          "rationale": "上半財年1.2億元，進入批量採購階段，2027財年有望成主要驅動力",
+          "applies_to": "01651.HK"
+        }
       ]
     },
     {
@@ -2376,7 +5145,7 @@
         "GOOGL"
       ],
       "created_at": "2026-03-22T01:27:00Z",
-      "updated_at": "2026-03-22T01:27:00Z",
+      "updated_at": "2026-05-02T15:52:39.179027Z",
       "logic_chain": [
         "前設：人形機械人發展緩慢 → VLA技術難突破，Fine Motor Skill未成熟 → 中國領先但美國唔太 keen",
         "前設：全球經濟對石油依賴已經減少咗三四倍 → 所以就算供應減少20%，油價都冇升至歷史新高 → 能源需求結構改變",
@@ -2388,6 +5157,31 @@
         "vs 陶東 2026-03-22（伊朗局勢）：陶東分析伊朗局勢升級可能爆發供應鏈危機，2026-03-22匿名分析師認為伊朗戰局會拖好耐——呼應：都認為伊朗局勢不會快速結束",
         "vs 陶東 2026-03-17（中東資金/私募信貸）：陶東分析中東資金撤離風險資產，2026-03-22匿名提到比特幣可用嚟「逃跑」——呼應：都關注資金流向避險資產",
         "vs 紅磡索螺絲 2025-04-13（海峽封鎖）：紅磡2025-04-13提到美伊談判失敗封鎖海峽，2026-03-22匿名認為能源供應影響有限——補充：匿名分析師認為全球經濟對石油依賴已減少"
+      ],
+      "presenter_profile": {
+        "name": "匿名",
+        "age_approx": "未知",
+        "style": "摘要轉述",
+        "portfolio_size_approx": "未知",
+        "key_principle": "轉述All In Podcast嘉賓觀點"
+      },
+      "portfolio_summary": {
+        "total_approx": "轉述嘉賓觀點",
+        "strategy_note": "摘要轉述",
+        "stocks": []
+      },
+      "stock_deep_dive": [],
+      "investment_action_items": [
+        {
+          "action": "設定止蝕位",
+          "rationale": "控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "需要 transcript 確認詳細操作",
+          "rationale": "現有資料不足",
+          "applies_to": "全部"
+        }
       ]
     },
     {
@@ -2459,7 +5253,7 @@
       ],
       "tickers": [],
       "created_at": "2026-03-22T00:53:00Z",
-      "updated_at": "2026-03-22T00:53:00Z",
+      "updated_at": "2026-05-02T15:52:39.179035Z",
       "logic_chain": [
         "前設：伊朗姿態係玉石俱焚 → 要令美國感受到夠痛 → 衝突唔會咁快結束",
         "前設：布倫特原油突破150美元，但WTI得95美元 → 價差創歷史最大 → 美國大量釋放戰略儲備壓抑本土油價，對亞洲市場放任",
@@ -2472,6 +5266,31 @@
         "vs 陶東 2026-03-17（中東資金/私募信貸）：兩者都分析中東局勢，2026-03-17陶東分析資金撤離風險資產，2026-03-22陶東分析伊朗局勢對石油供應既影響——呼應：陶東持續關注中東局勢",
         "vs 紅磡索螺絲 2025-04-13（海峽封鎖）：紅磡2025-04-13提到美伊談判失敗封鎖海峽，陶東2026-03-22分析伊朗局勢升級——呼應：都關注霍爾木茲海峽封鎖風險",
         "vs 從美國看世界ent-20260322-008：2026-03-22匿名分析師認為全球經濟對石油依賴已減少，油價升幅有限；陶東認為布倫特突破150美元——矛盾：陶東睇油價飆升，匿名分析師認為升幅有限"
+      ],
+      "presenter_profile": {
+        "name": "陶東",
+        "age_approx": "40-50歲（分析師）",
+        "style": "宏觀分析師，擅長地緣政治+能源",
+        "portfolio_size_approx": "分析師/評論員，唔係操盤人",
+        "key_principle": "宏觀視角，地緣政治驅動分析"
+      },
+      "portfolio_summary": {
+        "total_approx": "分析師/評論員，唔係操盤人",
+        "strategy_note": "宏觀分析為主，唔操作實際倉位",
+        "stocks": []
+      },
+      "stock_deep_dive": [],
+      "investment_action_items": [
+        {
+          "action": "關注伊朗局勢升級",
+          "rationale": "油價可能大幅波動",
+          "applies_to": "能源相關"
+        },
+        {
+          "action": "配置避險資產",
+          "rationale": "地緣政治風險升溫",
+          "applies_to": "GLD/國債"
+        }
       ]
     },
     {
@@ -2571,7 +5390,7 @@
         "0941.HK"
       ],
       "created_at": "2026-03-21T21:45:00Z",
-      "updated_at": "2026-03-21T21:45:00Z",
+      "updated_at": "2026-05-02T15:52:39.179056Z",
       "logic_chain": [
         "前設：堅信港股今年見33000點 → 現時調整係入市機會 → 肯調整既股票先可以上得更高",
         "前設：「啞鈴策略」——一邊高息公用股（中國IPP電力股），另一邊傳統科技龍頭（騰訊、阿里） → Yield + Growth，兩邊肥中間柄",
@@ -2584,6 +5403,93 @@
         "vs 葉秋良 2026-03-21（香港樓市）：兩者都喺2026-03-21發布，陸東認為港股33000點，葉秋良認為香港樓市長期向下——矛盾：陸東睇好港股，葉秋良認為樓市受壓",
         "vs 蔡金強 2026-03-21（2026策略）：兩者都喺2026-03-21分享投資策略，都提到港股和科技股——呼應：都強調長線持有優質股",
         "vs 紅磡索螺絲 2026-03-21（月結）：紅磡2026-03-21持有港交所、美團等，陸東認為美團面對競爭要小心——矛盾：紅磡持有美團，陸東認為美團要小心"
+      ],
+      "presenter_profile": {
+        "name": "陸東",
+        "age_approx": "40-50歲（資深分析員）",
+        "style": "技術分析+基本因素結合",
+        "portfolio_size_approx": "分析師/評論員，唔係操盤人",
+        "key_principle": "港股目標33000，技術分析主導"
+      },
+      "portfolio_summary": {
+        "total_approx": "分析師/評論員，唔係操盤人",
+        "strategy_note": "港股技術分析，目標33000點",
+        "stocks": [
+          {
+            "ticker": "00700.HK",
+            "action": "推薦",
+            "role": "港股龍頭",
+            "note": "騰訊"
+          },
+          {
+            "ticker": "09988.HK",
+            "action": "推薦",
+            "role": "電商",
+            "note": "阿里巴巴"
+          },
+          {
+            "ticker": "0941.HK",
+            "action": "推薦",
+            "role": "電訊",
+            "note": "中移動"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "00700.HK (騰訊)",
+          "company": "00700.HK (騰訊)",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "09988.HK (阿里)",
+          "company": "09988.HK (阿里)",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "0941.HK (中移動)",
+          "company": "0941.HK (中移動)",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "港股目標33000點",
+          "rationale": "技術分析顯示上升空間",
+          "applies_to": "港股整體"
+        },
+        {
+          "action": "騰訊/阿里/中移動長線配置",
+          "rationale": "藍籌穩健",
+          "applies_to": "港股藍籌"
+        }
       ]
     },
     {
@@ -2690,7 +5596,7 @@
         "09988.HK"
       ],
       "created_at": "2026-03-21T21:00:00Z",
-      "updated_at": "2026-03-21T21:00:00Z",
+      "updated_at": "2026-05-02T15:52:39.179079Z",
       "logic_chain": [
         "前設：港交所月供八年，平均成本298蚊 → 呢個係最核心既持倉 → 長線月供紀律堅持執行",
         "前設：美團80幾蚊入手，目標76-92蚊 → 睇兩成升幅 → 增長股操作需要耐心等待",
@@ -2703,6 +5609,168 @@
         "vs 匿名交易員 2026-03-19（月虧損4.7%）：2026-03-19交易員月虧損4.7%，紅磡2026-03-21本月暫時輸1%——呼應：都公開自己既投資表現，都提醒設定止蝕位",
         "vs 陸東 2026-03-21（港股33000）：紅磡持有港交所、美團、阿里，陸東認為騰訊500蚊、阿里120蚊抵買，美團要小心——矛盾：紅磡持有美團，陸東認為美團要小心",
         "vs 紅磡索螺絲 2025-04-28（油價/XLE/PM）：兩者都提到PM、BTI作為防守股，2025-04-28強調PM長揸收息——呼應：PM係紅磡長期核心持倉"
+      ],
+      "presenter_profile": {
+        "name": "紅磡索螺絲",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "三球（~$3,000,000，主持人透露）",
+        "strategy_note": "長線為主，唔做短炒；專注自己懂的範疇；倉位精簡為主",
+        "stocks": [
+          {
+            "ticker": "0388.HK",
+            "action": "長揸",
+            "role": "港股龍頭",
+            "note": "IPO集資回暖受益"
+          },
+          {
+            "ticker": "AMZN",
+            "action": "長揸",
+            "role": "電商+雲端",
+            "note": "跟基金經理買入，約14%回報"
+          },
+          {
+            "ticker": "V",
+            "action": "長揸",
+            "role": "消費金融",
+            "note": "~$330合理估值"
+          },
+          {
+            "ticker": "BRK.B",
+            "action": "長揸",
+            "role": "核心持倉",
+            "note": "手持1萬億現金"
+          },
+          {
+            "ticker": "MCD",
+            "action": "新買入",
+            "role": "長線收息",
+            "note": "10萬美元"
+          },
+          {
+            "ticker": "PM",
+            "action": "長揸",
+            "role": "防守股",
+            "note": "主要持倉之一"
+          },
+          {
+            "ticker": "NVDA",
+            "action": "持有",
+            "role": "AI/半導體",
+            "note": "PE低但爭議大"
+          },
+          {
+            "ticker": "XLE",
+            "action": "長揸",
+            "role": "通脹對冲",
+            "note": "目標價唔設"
+          }
+        ]
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "388.HK",
+          "company": "港交所",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "IPO集資回暖直接受益",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "✅ 港股回暖受益股",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "美團(3690)",
+          "company": "美團(3690)",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "OXY",
+          "company": "Occidental Petroleum",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "美國能源股，受油價支持",
+          "bear_case": "油價波動影響",
+          "presenter_action": "持有",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 美國能源股配置",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "PM",
+          "company": "Philip Morris",
+          "quotes": [
+            "PM係最主要既防守股",
+            "我自己係喺PM跌紧既時候決定加倉1000股",
+            "PM EPS大約8.5美元，現價對應PE合理"
+          ],
+          "key_data": {
+            "EPS": "~$8.5美元",
+            "季度表現": "超出預期",
+            "主持評價": "最主要防守持倉"
+          },
+          "bull_case": "8.5美元EPS，高息收益率，生活剛需不受經濟周期影響，季度業績超預期",
+          "bear_case": "各國嚴格控煙，收緊監管，長期吸煙率下降，股價近期偏弱",
+          "presenter_action": "長揸",
+          "presenter_size": "主要持倉（具體數量未透露）",
+          "investment_verdict": "✅ 長揸收息，防守股首選（適合保守型投資者）",
+          "risks_to_watch": [
+            "監管壓力",
+            "訴訟風險",
+            "吸煙率下降",
+            "經濟衰退打擊消費"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定5-7%止蝕線",
+          "rationale": "輸錢唔好就加注，先控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "PM長揸收息",
+          "rationale": "8.5美元EPS，高息防守，生活剛需不受周期影響",
+          "applies_to": "PM（Philip Morris）"
+        },
+        {
+          "action": "XLE長揸當通脹對冲",
+          "rationale": "即使油價跌，供應恢復需時，都唔會大跌；OPEC+減產撐住",
+          "applies_to": "XLE能源ETF"
+        },
+        {
+          "action": "NVDA等回調先入",
+          "rationale": "PE低但爭議大，要確認AI需求係咪持續，等市場恐懼時買入更安全",
+          "applies_to": "NVDA/AI股"
+        },
+        {
+          "action": "BRK長揸當壓艙石",
+          "rationale": "手持1萬億現金，危機時有能力掃貨，用PB估值唔用PE",
+          "applies_to": "BRK.B"
+        },
+        {
+          "action": "MCD新買入做長線收息",
+          "rationale": "10萬美元，生活剛需，穩定現金流",
+          "applies_to": "MCD麥當奴"
+        }
       ]
     },
     {
@@ -2787,7 +5855,7 @@
         "0019.HK"
       ],
       "created_at": "2026-03-21T20:45:00Z",
-      "updated_at": "2026-03-21T20:45:00Z",
+      "updated_at": "2026-05-02T15:52:39.179089Z",
       "logic_chain": [
         "前設：油股回升，因為油價底部提升 → 可以「賺息賺價」 → 既有upside又有yield",
         "前設：AI上游版塊比整體AI更好 → CPU/晶片製造商，今年要拼穩，第三季後要小心 → 今年舊年已經升咗好多",
@@ -2799,6 +5867,50 @@
         "vs 陸東 2026-03-21（港股33000）：兩者都喺2026-03-21分享投資策略，都提到騰訊、阿里——呼應：都認為傳統科技龍頭有價值",
         "vs 紅磡索螺絲 2025-04-28（油價/XLE/PM）：兩者都睇好油股，但前提唔同——蔡金強因為油價底部提升，紅磡因為供應恢復需時——呼應：都看好能源股後市",
         "vs 葉秋良 2026-03-21（香港樓市）：蔡金強認為內房央企可以撈，葉秋良認為樓市長期受壓——矛盾：蔡金強睇好央企，葉秋良認為樓市供應過剩"
+      ],
+      "presenter_profile": {
+        "name": "蔡金強 (Oscar Choi)",
+        "age_approx": "40-50歲（資深投資人）",
+        "style": "積極型投資者，睇好油股+科技",
+        "portfolio_size_approx": "實戰型投資者，具體規模未透露",
+        "key_principle": "油股可以「賺息賺價」，長線配置"
+      },
+      "portfolio_summary": {
+        "total_approx": "實戰型投資者，具體規模未透露",
+        "strategy_note": "積極配置，油股+科技，長短混合",
+        "stocks": [
+          {
+            "ticker": "NVDA",
+            "action": "長揸",
+            "role": "AI龍頭",
+            "note": "核心持倉"
+          },
+          {
+            "ticker": "1109.HK",
+            "action": "持有",
+            "role": "地產/綜合",
+            "note": "具體未確認"
+          },
+          {
+            "ticker": "0019.HK",
+            "action": "持有",
+            "role": "具體未確認",
+            "note": "待確認"
+          }
+        ]
+      },
+      "stock_deep_dive": [],
+      "investment_action_items": [
+        {
+          "action": "NVDA長揸",
+          "rationale": "AI龍頭，核心持倉",
+          "applies_to": "NVDA"
+        },
+        {
+          "action": "油股可以「賺息賺價」",
+          "rationale": "油價底部提升，能源股雙重收益",
+          "applies_to": "油股/XLE"
+        }
       ]
     },
     {
@@ -2875,7 +5987,7 @@
       ],
       "tickers": [],
       "created_at": "2026-03-21T20:12:00Z",
-      "updated_at": "2026-03-21T20:12:00Z",
+      "updated_at": "2026-05-02T15:52:39.179101Z",
       "logic_chain": [
         "前設：大行預測升15%有利益衝突 → 大行買咗地產股，想推高樓市出货 → 地產代理亦希望唱好高位出货",
         "前設：未來十年有30萬公屋供應，47萬總供應 → 私樓需求將被大幅瓜分 → 供應過剩壓抑樓價",
@@ -2887,6 +5999,31 @@
         "vs 陸東 2026-03-21（港股33000）：葉秋良認為香港樓市長期受壓，陸東認為港股33000點——矛盾：葉秋良睇淡樓市，陸東睇好港股",
         "vs 蔡金強 2026-03-21（2026策略）：蔡金強認為內房央企可以撈，葉秋良認為樓市供應過剩——矛盾：蔡金強認為央企有機會，葉秋良認為整體樓市受壓",
         "vs 紅磡索螺絲 2026-03-21（月結）：紅磡2026-03-21未提及樓市，但月結分享顯示持有港交所等——補充：樓市分析同港股投資係不同資產類別"
+      ],
+      "presenter_profile": {
+        "name": "葉秋良教授",
+        "age_approx": "學者",
+        "style": "學術分析，樓市專家",
+        "portfolio_size_approx": "學者/教授，唔係操盤人",
+        "key_principle": "樓市分析以數據說話"
+      },
+      "portfolio_summary": {
+        "total_approx": "學者，唔係操盤人",
+        "strategy_note": "樓市分析為主",
+        "stocks": []
+      },
+      "stock_deep_dive": [],
+      "investment_action_items": [
+        {
+          "action": "設定止蝕位",
+          "rationale": "控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "需要 transcript 確認詳細操作",
+          "rationale": "現有資料不足",
+          "applies_to": "全部"
+        }
       ]
     },
     {
@@ -2964,7 +6101,7 @@
       "tickers": [],
       "stock_recommendations": [],
       "created_at": "2026-03-21T00:00:00Z",
-      "updated_at": "2026-03-21T00:00:00Z",
+      "updated_at": "2026-05-02T15:52:39.179109Z",
       "logic_chain": [
         "前設：中東投資者連黃金呢類避險工具都拋售 → 只保留美元現金 → 反映市場情緒極度恐慌",
         "前設：私募信貸基金面對大量贖回 → 正常每季最多5%但恐慌會導致「滾雪球」效應 → 流動性危機正在醞釀",
@@ -2976,6 +6113,31 @@
         "vs 陶東 2026-03-22（伊朗局勢）：兩者都喺陶東帳號發布，2026-03-17陶東分析資金撤離，2026-03-22陶東分析伊朗局勢——呼應：陶東持續關注中東局勢對金融市場既影響",
         "vs 紅磡索螺絲 2025-04-13（美伊封鎖海峽）：紅磡2025-04-13提到美伊談判失敗封鎖海峽，陶東2026-03-17分析中東資金撤離——呼應：都關注中東局勢影響",
         "vs 匿名交易員 2026-03-19（月虧損4.7%）：陶東分析私募信貸流動性危機，匿名交易員月虧損4.7%可能與市場波動相關——呼應：都提醒流動性風險"
+      ],
+      "presenter_profile": {
+        "name": "陶東",
+        "age_approx": "40-50歲（分析師）",
+        "style": "宏觀分析師，擅長地緣政治+能源",
+        "portfolio_size_approx": "分析師/評論員，唔係操盤人",
+        "key_principle": "宏觀視角，地緣政治驅動分析"
+      },
+      "portfolio_summary": {
+        "total_approx": "分析師/評論員，唔係操盤人",
+        "strategy_note": "宏觀分析為主，唔操作實際倉位",
+        "stocks": []
+      },
+      "stock_deep_dive": [],
+      "investment_action_items": [
+        {
+          "action": "關注伊朗局勢升級",
+          "rationale": "油價可能大幅波動",
+          "applies_to": "能源相關"
+        },
+        {
+          "action": "配置避險資產",
+          "rationale": "地緣政治風險升溫",
+          "applies_to": "GLD/國債"
+        }
       ]
     },
     {
@@ -3091,7 +6253,7 @@
         }
       ],
       "created_at": "2026-03-21T00:00:00Z",
-      "updated_at": "2026-03-21T00:00:00Z",
+      "updated_at": "2026-05-02T15:52:39.179125Z",
       "logic_chain": [
         "前設：高槓桿期權操作缺乏止蝕紀律 → 當組合出現回調時被迫斬倉 → 形成惡性循環",
         "前設：孿息率突然上升導致「食全餐」 → 幾乎所有資產類別都跌 → 油股、港股、美股、債市全部跌",
@@ -3103,6 +6265,88 @@
         "vs 紅磡索螺絲 2026-03-21（月結）：2026-03-21紅磡本月暫時輸1%，2026-03-19交易員月虧損4.7%——呼應：都公開自己既投資表現，都提醒設定止蝕位",
         "vs 紅磡索螺絲 2025-03-23（黑色星期一）：2025-03-23紅磡坦言今個月有損失，2026-03-19交易員月虧損4.7%——呼應：都提醒設定止蝕位、控制槓桿既重要性",
         "vs 陶東 2026-03-17（中東資金/私募信貸）：陶東分析私募信貸流動性危機可能爆發，交易員月虧損4.7%可能與市場波動相關——呼應：都提醒流動性風險"
+      ],
+      "presenter_profile": {
+        "name": "匿名交易員",
+        "age_approx": "50歲左右",
+        "style": "長線價值投資，強調止蝕紀律，唔做短炒",
+        "portfolio_size_approx": "~$3000萬-5000萬（估計，50歲長線投資者）",
+        "key_principle": "20歲可以搏，50歲輸不起；設定止蝕位然後堅持執行；專注自己識的範疇"
+      },
+      "portfolio_summary": {
+        "total_approx": "月虧損4.7%（2026年3月）",
+        "strategy_note": "短線交易為主，有槓桿",
+        "stocks": []
+      },
+      "stock_deep_dive": [
+        {
+          "ticker": "OXY",
+          "company": "Occidental Petroleum",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "美國能源股，受油價支持",
+          "bear_case": "油價波動影響",
+          "presenter_action": "持有",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 美國能源股配置",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "小米",
+          "company": "小米",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "比亞迪",
+          "company": "比亞迪",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        },
+        {
+          "ticker": "美團",
+          "company": "美團",
+          "quotes": [],
+          "key_data": {},
+          "bull_case": "基於節目內容分析",
+          "bear_case": "基於節目內容分析",
+          "presenter_action": "未明確",
+          "presenter_size": "未透露",
+          "investment_verdict": "⚠️ 需要 transcript 確認詳細分析",
+          "risks_to_watch": [
+            "需要 transcript 確認"
+          ]
+        }
+      ],
+      "investment_action_items": [
+        {
+          "action": "設定止蝕位",
+          "rationale": "控制風險",
+          "applies_to": "所有倉位"
+        },
+        {
+          "action": "需要 transcript 確認詳細操作",
+          "rationale": "現有資料不足",
+          "applies_to": "全部"
+        }
       ]
     }
   ],
